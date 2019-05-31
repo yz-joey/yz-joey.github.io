@@ -1,0 +1,23 @@
+---
+layout: home2
+title: Me in a Nutshell
+description: "Yichao Zhou's website"
+tags: [Jekyll, theme, responsive, blog, template]
+image:
+  feature: cover.jpg
+---
+
+I am a third-year Ph.D student in the Department of Computer Science at University of California, Los Angeles advised by Professor <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank">Wei Wang</a>. My research interests focus on natural language processing, information retrival and text mining.
+
+<br />
+
+<b> WHAT'S NEW ~~~~~~~~ </b>
+
+<br />
+
+I will join Gemini X at <a href="https://research.yahoo.com/" target="_blank">Yahoo Research</a> as an intern during 2019 summer. 
+
+<br />
+I will attend KDD 2019 at Alaska from Aug.4 to Aug.8 to present my recently accepted research paper <a href="https://research.yahoo.com/publications/9133/understanding-consumer-journey-using-attention-based-recurrent-neural-networks" target="_blank">"Understanding Consumer Journey using Attention based Recurrent Neural Networks"</a>.
+
+

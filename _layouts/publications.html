@@ -1,0 +1,244 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include _head.html %}
+</head>
+
+<body class="page">
+<style>
+    /*********************************
+     The list of publication items
+     *********************************/
+/* The list of items */
+.biblist { }
+
+/* The item */
+.biblist li { }
+
+/* You can define custom styles for plstyle field here. */
+
+
+/*************************************
+ The box that contain BibTeX code
+ *************************************/
+div.noshow { display: none; }
+div.bibtex {
+	margin-right: 0%;
+	margin-top: 1.2em;
+	margin-bottom: 1em;
+	border: 1px solid silver;
+	padding: 0em 1em;
+	background: #ffffee;
+}
+div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; padding: 0em 0em;}</style>
+<script type="text/javascript">
+    <!--
+    // Toggle Display of BibTeX
+    function toggleBibtex(articleid) {
+        var bib = document.getElementById('bib_'+articleid);
+        if (bib) {
+            if(bib.className.indexOf('bibtex') != -1) {
+                bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+            }
+        } else {
+            return;
+        }
+    }
+-->
+    </script>
+
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
+
+{% if page.image.feature %}
+  <div class="image-wrap">
+  <img src=
+    {% if page.image.feature contains 'http://' %}
+      "{{ page.image.feature }}"
+    {% elsif page.image.feature contains 'https://' %}
+      "{{ page.image.feature }}"
+    {% else %}
+      "{{ site.url }}/images/{{ page.image.feature }}"
+    {% endif %}
+  alt="{{ page.title }} feature image">
+  {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+  </div><!-- /.image-wrap -->
+{% endif %}
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
+  <article>
+    <h1>{{ page.title }}</h1>
+    <div class="article-wrap">
+      {{ content }}
+
+
+
+<h4 style="margin-bottom:0px;padding-top:20px;">Conference Publications</h4>
+
+    <ul class="biblist">
+
+
+    <!-- Item: Yichao2019 -->
+<li ><p>
+Y. Zhou, <a href="https://research.yahoo.com/researchers/shaunakm" target="_blank">S. Mishra</a>, <a href="https://research.yahoo.com/researchers/jelenas" target="_blank">J. Gligorijevic</a>, T. Bhatia and <a href="https://research.yahoo.com/researchers/narayanb" target="_blank">N. Bhamidipati</a>
+<br><b>Understanding Consumer Journey using Attention based Recurrent Neural Networks</b><br>
+<i>SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)</i>,
+2019.
+<br />
+<a href="javascript:toggleBibtex('Yichao2019')">[BibTeX]</a>
+<!--<a href="" target="_blank">[PDF]</a>--> <a href="https://research.yahoo.com/publications/9133/understanding-consumer-journey-using-attention-based-recurrent-neural-networks"  target="_blank">
+[Project Page]</a> 
+</p>
+<div id="bib_Yichao2019" class="bibtex noshow">
+<pre>
+@inproceedings{Yichao2019,
+    author = {Yichao Zhou and Shaunak Mishra and Jelena Gligorijevic and Tarun Bhatia and Narayan Bhamidipati},
+    title = {Understanding Consumer Journey using Attention based Recurrent Neural Networks},
+    booktitle = {Proceedings of SIGKDD Conference on Knowledge Discovery and Data Mining},
+    year = {2019}
+}   
+</pre>
+</div>
+</li>
+
+
+
+
+
+    <!-- Item: Zhao2018 -->
+<li ><p>
+<a href="https://jyzhao.net/" target="_blank">J. Zhao</a>, Y. Zhou, <a href="https://zyli93.github.io/" target="_blank">Z. Li</a>, and <a href="http://web.cs.ucla.edu/~kwchang/" target="_blank">K. Chang</a>
+<br><b>Learning gender-neutral word embeddings</b><br>
+<i>Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>,
+2018.
+<br />
+<a href="javascript:toggleBibtex('Zhao2018')">[BibTeX]</a>
+<a href="https://www.aclweb.org/anthology/D18-1521" target="_blank">[PDF]</a> 
+</p>
+<div id="bib_Zhao2018" class="bibtex noshow">
+<pre>
+@inproceedings{Zhao2018,
+    title = "Learning Gender-Neutral Word Embeddings",
+    author = "Zhao, Jieyu  and
+      Zhou, Yichao  and
+      Li, Zeyu  and
+      Wang, Wei  and
+      Chang, Kai-Wei",
+    booktitle = "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing",
+    month = oct # "-" # nov,
+    year = "2018"
+}
+</pre>
+</div>
+</li>
+
+
+
+    <!-- Item: Patrick2017 -->
+<li ><p>
+P. Tan, Y. Zhou, X. Huang, G.M. Mazzeo, <a href="https://scholar.google.com/citations?user=BlUD8lUAAAAJ&hl=en" target="_blank">C. Ju</a> and <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank">W. Wang</a>
+<br><b>AZTEC: A Cloud-based Computational Platform to Integrate Biomedical Resources</b><br>
+<i>IEEE 33rd International Conference on Data Engineering (ICDE)</i>,
+2017.
+<br />
+<a href="javascript:toggleBibtex('Patrick2017')">[BibTeX]</a>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7930075" target="_blank">[PDF]</a> <a href="http://aztec.bio"  target="_blank">
+[Project Page]</a> 
+</p>
+<div id="bib_Patrick2017" class="bibtex noshow">
+<pre>
+@inproceedings{Patrick2017,
+  title={AZTEC: A cloud-based computational platform to integrate biomedical resources},
+  author={Tan, Patrick and Zhou, Yichao and Huang, Xinxin and Mazzeo, Giuseppe M and Ju, Chelsea},
+  booktitle={2017 IEEE 33rd International Conference on Data Engineering (ICDE)},
+  pages={1365--1366},
+  year={2017},
+  organization={IEEE}
+}
+</pre>
+</div>
+</li>
+
+
+    <!-- Item: Yichao2014 -->
+<li ><p>
+Y. Zhou, Z. Zhou, and N. Wang
+<br><b>A novel residual stress test structure for MEMs thin films</b><br>
+<i>12th IEEE International Conference on Solid-State and Integrated Circuit Technology (ICSICT)</i>,
+2014.
+<br />
+<a href="javascript:toggleBibtex('Yichao2014')">[BibTeX]</a>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7021635" target="_blank">[PDF]</a> 
+</p>
+<div id="bib_Yichao2014" class="bibtex noshow">
+<pre>
+@inproceedings{Yichao2014,
+  title={A novel residual stress test structure for MEMs thin films},
+  author={Zhou, Yichao and Zhou, Zaifa and Wang, Ninghuan},
+  booktitle={2014 12th IEEE International Conference on Solid-State and Integrated Circuit Technology (ICSICT)},
+  pages={1--3},
+  year={2014},
+  organization={IEEE}
+}
+</pre>
+</div>
+</li>
+
+
+
+
+
+
+
+</ul>
+
+<h4 style="margin-bottom:0px;padding-top:10px;">Patents</h4>
+
+<!-- Generated from JabRef by PubList by Truong Nghiem at 10:08 on 2017.01.16. -->
+<ul class="biblist">
+
+<!-- Item: Shaunak2019 -->
+<li ><p>
+<a href="https://research.yahoo.com/researchers/shaunakm" target="_blank">S. Mishra</a>,
+R.H Tang, Y. Zhou, V.R.Raithatha, L.N. Buamidipati, M. Abasi, S. Ravindran
+<b>Method for identifying and targeting users across purchase funnel stages</b><br>
+
+
+<br />
+<!-- <a href="javascript:toggleBibtex('Shaunak2019')">[BibTeX]</a>
+<a href="" target="_blank">[PDF]</a> -->
+
+
+</p>
+<div id="bib_Shaunak2019" class="bibtex noshow">
+<pre>
+
+</pre></div>
+</li>
+
+
+
+    {% if site.disqus_shortname and page.comments %}
+      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    {% endif %}
+  </article>
+</div><!-- /#index -->
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
+
+{% include _scripts.html %}          
+
+</body>
+</html>
