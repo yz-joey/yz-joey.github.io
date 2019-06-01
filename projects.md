@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /code/
+permalink: /projects/
 title: Some Projects I've Involved in
 tags: [projects]
 modified: 5-28-2019
