@@ -16,18 +16,18 @@ comments: false
 
 ### Trip to Portland
 
-<img align="middle" src="{{ site.url }}/images/garden2.jpg" alt="...">
+<img align="middle" src="{{ site.url }}/images/garden2.JPG" alt="...">
 <img align="middle" src="{{ site.url }}/images/rose.jpg" alt="...">
-<img align="middle" src="{{ site.url }}/images/fall.jpg" alt="...">
+<img align="middle" src="{{ site.url }}/images/fall.JPG" alt="...">
 
 ### Disneyland Portraits
 
-<img align="middle" src="{{ site.url }}/images/disney1.jpg" alt="...">
-<img align="middle" src="{{ site.url }}/images/disney2.jpg" alt="...">
-<img align="middle" src="{{ site.url }}/images/disney3.jpg" alt="...">
+<img align="middle" src="{{ site.url }}/images/disney1.JPG" alt="...">
+<img align="middle" src="{{ site.url }}/images/disney2.JPG" alt="...">
+<img align="middle" src="{{ site.url }}/images/disney3.JPG" alt="...">
 
 ### Antelope Valley California Poppy Reserve
 
 <img align="middle" src="{{ site.url }}/images/antilope1.jpg" alt="...">
-<img align="middle" src="{{ site.url }}/images/antilope2.jpg" alt="...">
+<img align="middle" src="{{ site.url }}/images/antilope2.JPG" alt="...">
 
