@@ -7,7 +7,7 @@ modified: 6-1-2019
 comments: false
 ---
 
-### My cats
+### My cats (Krissy, Pearl, Sheldon)
 
 <img align="middle" src="{{ site.url }}/images/krissy.jpg" alt="...">
 <img align="middle" src="{{ site.url }}/images/pearl.jpg" alt="...">
@@ -28,6 +28,6 @@ comments: false
 
 ### Antelope Valley California Poppy Reserve
 
-
 <img align="middle" src="{{ site.url }}/images/antilope1.jpg" alt="...">
 <img align="middle" src="{{ site.url }}/images/antilope2.jpg" alt="...">
+
