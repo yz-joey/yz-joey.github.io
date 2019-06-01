@@ -7,7 +7,7 @@ image:
   feature: cover.jpg
 ---
 
-I am a third-year Ph.D student in the Department of Computer Science at University of California, Los Angeles advised by Professor <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank">Wei Wang</a>. My research interests focus on natural language processing, information retrival and text mining.
+I am a third-year Ph.D student in <a href="https://scai.cs.ucla.edu/" target="_blank">Scalable Analytics Institute (ScAi)</a>, Department of Computer Science at University of California, Los Angeles advised by Professor <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank">Wei Wang</a>. My research interests focus on natural language processing, information retrival and text mining.
 
 <br />
 
