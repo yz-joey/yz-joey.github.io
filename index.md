@@ -9,6 +9,12 @@ image:
 
 I am a third-year Ph.D student in <a href="https://scai.cs.ucla.edu/" target="_blank">Scalable Analytics Institute (ScAi)</a>, Department of Computer Science at University of California, Los Angeles advised by Professor <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank">Wei Wang</a>. My research interests focus on natural language processing, information retrival and text mining.
 
+
+Contact Information:
+E-mail: yz [AT] cs [DOT] edu [DOT] com
+Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 90095, United States
+
+
 <br />
 
 <b> WHAT'S NEW ~~~~~~~~ </b>
