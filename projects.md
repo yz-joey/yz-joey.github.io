@@ -11,6 +11,15 @@ My understanding of natural language processing is based on its various downstre
 
 ### Natural Language Processing
 
+* [**Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification**]<br>
+Recently, **adversarial attacks** against machine learning models have been more and more prevailing and threatened various real-world applications such as **email spam filters and sentiment analysis**.
+In this paper, we propose a novel framework, learning to **DIScriminate Perturbations (DISP)**, to discriminate and adjust malicious perturbations, thereby blocking adversarial attacks for text classification models.
+To identify adversarial attacks, a perturbation discriminator validates the likelihood to be perturbed for each token in the text and provides a set of potential perturbations.
+For each potential perturbation, an embedding estimator exploits context tokens to **approximate the actual embeddings**.
+Hierarchical navigable small world graphs are then applied to efficiently convert the embeddings to appropriate replacement tokens for approximate *k* NN search.
+<img align="middle" src="{{ site.url }}/images/flow.pdf" alt="...">
+
+
 * [**Gender-neutral word embeddings**]<br>
 Word embedding models have become a fundamental component in a wide range of Natural Language Processing (NLP) applications. 
 However, embeddings trained on human-generated corpora have been demonstrated to inherit strong gender stereotypes that reflect social constructs. 
