@@ -13,7 +13,7 @@ comments: true
 * **captioning model** uses a ‘soft’ top-down attention mechanism to weight each feature during caption generation, using the existing partial output sequence as context
 
 ---------------------------------------
-![captioning model](./images/tgfif/model1.png)
+![captioning model]({{site.url}}/images/tgfif/model1.png)
 
 ---------------------------------------
 
@@ -22,7 +22,7 @@ comments: true
 
 ---------------------------------------
 <!--![evaluation metric](./images/tgfif/eval1.png)-->
-<img src="./images/tgfif/eval1.png" alt="drawing" width="500"/>
+<img src="{{site.url}}/images/tgfif/eval1.png" alt="drawing" width="500"/>
 
 ---------------------------------------
 
@@ -36,7 +36,7 @@ comments: true
 * use [bottom-up attention](http://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.pdf)(previous paper) to aggregate the information from symbolic regions --> **intuition** is that ads draw the viewer’s attention in a particular way, and the symbol bounding boxes, without symbol labels, can be used to approximate this
 
 ---------------------------------------
-![captioning model2](./images/tgfif/model2.png)
+![captioning model2]({{site.url}}/images/tgfif/model2.png)
 
 ---------------------------------------
 
@@ -60,7 +60,7 @@ as a secondary image representation
 * **Obviously, the knowledge graph can be Wikidata (Vrandecic and Kro ̈tzsch 2014).**
 
 ---------------------------------------
-![VQA datasets](./images/tgfif/VQAs.png)
+![VQA datasets]({{site.url}}/images/tgfif/VQAs.png)
 
 ---------------------------------------
 
@@ -70,7 +70,7 @@ as a secondary image representation
 * Each knowledge and spatial fact is fed to BLSTM to get corresponding memory embeddings *mi*. Question embeddings (q) for a question (Q) is also obtained in a similar fashion.
 
 ---------------------------------------
-![KB VQA model](./images/tgfif/kb-vqa.png)
+![KB VQA model]({{site.url}}/images/tgfif/kb-vqa.png)
 
 ---------------------------------------
 ### [CVPR 2019] [OK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge](http://openaccess.thecvf.com/content_CVPR_2019/papers/Marino_OK-VQA_A_Visual_Question_Answering_Benchmark_Requiring_External_Knowledge_CVPR_2019_paper.pdf)
@@ -86,12 +86,12 @@ as a secondary image representation
 
 
 ---------------------------------------
-![KB VQA model2](./images/tgfif/kb-vqa2.png)
+![KB VQA model2]({{site.url}}/images/tgfif/kb-vqa2.png)
 
 ---------------------------------------
 * [MUTAN](https://arxiv.org/pdf/1705.06676.pdf): Multimodal Tucker Fusion (MUTAN) model, a recent state-of-the-art tensor-based method for VQA
 
-![MUTAN](./images/tgfif/mutan.png)
+![MUTAN]({{site.url}}/images/tgfif/mutan.png)
 
 ---------------------------------------
 * dataset is indeed visually grounded, but better image features do not hugely improve the results --> difficulty lies in the retrieving the relevant knowledge and reasoning required to answer the questions
@@ -102,7 +102,7 @@ as a secondary image representation
 processes an image with a single, efficient forward pass, requires **no external regions proposals**, and can be trained end-to-end with **a single round of optimization** (composed of a Convolutional Network, **a novel dense localization layer**, and Recurrent Neural Network language model that generates the label sequences)
 
 ---------------------------------------
-![KB VQA model2](./images/tgfif/decap.png)
+![KB VQA model2]({{site.url}}/images/tgfif/decap.png)
 
 ---------------------------------------
 * use the VGG-16 architecture for its state-of-the-art performance
@@ -119,7 +119,7 @@ processes an image with a single, efficient forward pass, requires **no external
 
 ---------------------------------------
 <!--![evaluation metric](./images/tgfif/eval1.png)-->
-<img src="./images/tgfif/rcnn.png" alt="drawing" width="500"/>
+<img src="{{site.url}}/images/tgfif/rcnn.png" alt="drawing" width="500"/>
 
 ---------------------------------------
 * fast R-CNN network takes as input **an entire image and a set of object proposals**
@@ -151,46 +151,46 @@ processes an image with a single, efficient forward pass, requires **no external
 
 ---------------------------------------
 <!--![evaluation metric](./images/tgfif/eval1.png)-->
-<img src="./images/tgfif/image-text1.png" alt="drawing" width="300"/>
+<img src="{{site.url}}/images/tgfif/image-text1.png" alt="drawing" width="300"/>
 
 ---------------------------------------
 * **Bi-directional ranking constraints**: the distance between xi and each positive sentence yj to be smaller than the distance between xi and each negative sentence yk by some enforced margin m
 
-<img src="./images/tgfif/ranking-constraint.png" alt="drawing" width="500"/>
+<img src="{{site.url}}/images/tgfif/ranking-constraint.png" alt="drawing" width="500"/>
 
 * **Structure-preserving constraints** enforce a margin of m between N(xi) and any point outside of the neighborhood
 
-<img src="./images/tgfif/structure-preserving.png" alt="drawing" width="550"/>
+<img src="{{site.url}}/images/tgfif/structure-preserving.png" alt="drawing" width="550"/>
 
 * **Embedding Loss Function** hinge loss
 
-<img src="./images/tgfif/loss.png" alt="drawing" width="500"/>
+<img src="{{site.url}}/images/tgfif/loss.png" alt="drawing" width="500"/>
 
 * report results on **image-tosentence and sentence-to-image retrieval** on the standard Flickr30K and MSCOCO datasets. Flickr30K consists of 31783 images accompanied by five descriptive sentences each. The larger MSCOCO dataset consists of 123000 images, also with five sentences each
 
 
 ### [Arxiv 2019] [ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://arxiv.org/pdf/1908.02265.pdf)
 
-* <img src="./images/tgfif/vilbert0.png" alt="vilbert0" width="70"/>
+* <img src="{{site.url}}/images/tgfif/vilbert0.png" alt="vilbert0" width="70"/>
 * ViLBERT (short for Vision-and-Language BERT), a model for learning
 task-agnostic **joint representations of image content and natural language**.
 * extend the popular BERT architecture to a **multi-modal two-stream model**, processing both visual and textual inputs in separate streams that interact through co-attentional transformer layers
 
 * overall archtitecture
 
-<img src="./images/tgfif/vilbert1.png" alt="vilbert1" width="700"/>
+<img src="{{site.url}}/images/tgfif/vilbert1.png" alt="vilbert1" width="700"/>
 
 * co-attention transformer
 
-<img src="./images/tgfif/vilbert2.png" alt="vilbert2" width="700"/>
+<img src="{{site.url}}/images/tgfif/vilbert2.png" alt="vilbert2" width="700"/>
 
 * pretraining tasks for loss
 
-<img src="./images/tgfif/vilbert3.png" alt="vilbert3" width="700"/>
+<img src="{{site.url}}/images/tgfif/vilbert3.png" alt="vilbert3" width="700"/>
 
 * Downstream tasks
 
-<img src="./images/tgfif/vilbert4.png" alt="vilbert4" width="700"/>
+<img src="{{site.url}}/images/tgfif/vilbert4.png" alt="vilbert4" width="700"/>
 
 
 
