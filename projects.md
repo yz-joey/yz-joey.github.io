@@ -21,15 +21,15 @@ Hierarchical navigable small world graphs are then applied to efficiently conver
 
 
 * [**Gender-neutral word embeddings**]<br>
-Word embedding models have become a fundamental component in a wide range of Natural Language Processing (NLP) applications. 
-However, embeddings trained on human-generated corpora have been demonstrated to inherit strong gender stereotypes that reflect social constructs. 
-To address this concern, in this project, we propose a novel training procedure for learning gender-neutral word embeddings. Our approach aims to preserve gender information in certain dimensions of word vectors while compelling other dimensions to be free of gender influence. Based on the proposed method, we generate a Gender-Neutral variant of GloVe (GN-GloVe). Quantitative and qualitative experiments demonstrate that GN-GloVe successfully isolates gender information without sacrificing the functionality of the embedding model.
+**Word embedding models** have become a fundamental component in a wide range of Natural Language Processing (NLP) applications. 
+However, embeddings trained on human-generated corpora have been demonstrated to inherit **strong gender stereotypes** that reflect social constructs. 
+To address this concern, in this project, we propose a novel training procedure for **learning gender-neutral word embeddings**. Our approach aims to preserve gender information in **certain dimensions of word vectors** while compelling other dimensions to be free of gender influence. Based on the proposed method, we generate a Gender-Neutral variant of GloVe (GN-GloVe). Quantitative and qualitative experiments demonstrate that GN-GloVe successfully isolates gender information without sacrificing the functionality of the embedding model.
 <img align="middle" src="{{ site.url }}/images/wg.png" alt="...">
 
 
 * [**Bilingual relation classification**]<br>
 Relation classification is an important semantic processing task in natural language processing field. Nowadays, a large amount of knowledge in different languages exists but is rarely leveraged for relation classification tasks.
-Besides, most current approaches for relation classification only exploit word-level features. However, character-level features are also worth investigating, especially for languages that have rich character-level semantics, such as Chinese. In this project, we propose a novel deep neural network based model, omni-RCNN, which leverages the omni-word features extracted from bilingual datasets.   
+Besides, most current approaches for relation classification only exploit word-level features. However, **character-level features** are also worth investigating, especially for languages that have rich character-level semantics, such as Chinese. In this project, we propose a novel deep neural network based model, omni-RCNN, which leverages the omni-word features extracted from **bilingual datasets**.   
 <img align="middle" src="{{ site.url }}/images/omni-rcnn.png" alt="...">
 
 
