@@ -17,7 +17,7 @@ In this paper, we propose a novel framework, learning to **DIScriminate Perturba
 To identify adversarial attacks, a perturbation discriminator validates the likelihood to be perturbed for each token in the text and provides a set of potential perturbations.
 For each potential perturbation, an embedding estimator exploits context tokens to **approximate the actual embeddings**.
 Hierarchical navigable small world graphs are then applied to efficiently convert the embeddings to appropriate replacement tokens for approximate *k* NN search.
-<img align="middle" src="{{ site.url }}/images/flow.pdf" alt="...">
+<img align="middle" src="{{ site.url }}/images/flow.png" alt="...">
 
 
 * [**Gender-neutral word embeddings**]<br>
