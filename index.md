@@ -20,15 +20,18 @@ Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 900
 <b> WHAT'S NEW ~~~~~~~~ </b>
 
 <br />
-Our research long paper <a href="" target="_blank">"Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification"</a> was accepted by <a href="https://www.emnlp-ijcnlp2019.org/" target="_blank">EMNLP-IJCNLP 2019</a>. I will attend the conference at Hong Kong, China from Nov.3 to Nov.7 to present this work.
+<b>[2019.08.13]</b> Our research long paper <a href="" target="_blank">"Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification"</a> was accepted by <a href="https://www.emnlp-ijcnlp2019.org/" target="_blank">EMNLP-IJCNLP 2019</a>. I will attend the conference at Hong Kong, China from Nov.3 to Nov.7 to present this work.
 
 <br />
 
-I will join Gemini X at <a href="https://research.yahoo.com/" target="_blank">Yahoo Research</a> as an intern during 2019 summer. 
+<b>[2019.04.28]</b> I will attend KDD 2019 at Alaska from Aug.4 to Aug.8 to present my recently accepted research paper <a href="https://research.yahoo.com/publications/9133/understanding-consumer-journey-using-attention-based-recurrent-neural-networks" target="_blank">"Understanding Consumer Journey using Attention based Recurrent Neural Networks"</a>.
+
+<br />
+
+<b>[2019.01.01]</b> I will join Gemini X at <a href="https://research.yahoo.com/" target="_blank">Yahoo Research</a> as an intern during 2019 summer. 
 
 
-<!--I will attend KDD 2019 at Alaska from Aug.4 to Aug.8 to present my recently accepted research paper <a href="https://research.yahoo.com/publications/9133/understanding-consumer-journey-using-attention-based-recurrent-neural-networks" target="_blank">"Understanding Consumer Journey using Attention based Recurrent Neural Networks"</a>.
--->
+
 
 
 
