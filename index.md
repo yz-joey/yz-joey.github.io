@@ -6,11 +6,11 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: cover.jpg
 ---
-###About me<br>
+<b>About me:</b><br>
 Yichao Zhou is a coming fourth-year Ph.D student in <a href="https://scai.cs.ucla.edu/" target="_blank">Scalable Analytics Institute (ScAi)</a>, Department of Computer Science at University of California, Los Angeles (UCLA) advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Professor Wei Wang</a>. Yichao Zhou 's research interests focus on natural language processing, information retrival and text mining.
 
 <br>
-Contact Information:<br>
+<b>Contact Information:</b><br>
 E-mail: yz [AT] cs [DOT] edu [DOT] com<br>
 Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 90095, United States
 
