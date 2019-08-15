@@ -1,7 +1,6 @@
 ---
 layout: home2
-title: Me in a Nutshell
-description: "Yichao Zhou 's website"
+description: "Yichao Zhou"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: cover.jpg
