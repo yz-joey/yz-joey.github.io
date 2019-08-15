@@ -1,13 +1,13 @@
 ---
 layout: home2
 title: Me in a Nutshell
-description: "Yichao Zhou's website"
+description: "Yichao Zhou 's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: cover.jpg
 ---
 
-I am a coming fourth-year Ph.D student in <a href="https://scai.cs.ucla.edu/" target="_blank">Scalable Analytics Institute (ScAi)</a>, Department of Computer Science at University of California, Los Angeles advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Professor Wei Wang</a>. My research interests focus on natural language processing, information retrival and text mining.
+Yichao Zhou is a coming fourth-year Ph.D student in <a href="https://scai.cs.ucla.edu/" target="_blank">Scalable Analytics Institute (ScAi)</a>, Department of Computer Science at University of California, Los Angeles advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Professor Wei Wang</a>. Yichao Zhou 's research interests focus on natural language processing, information retrival and text mining.
 
 <br>
 Contact Information:<br>
@@ -24,11 +24,12 @@ Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 900
 
 <br />
 
-<b>[2019.04.28]</b> I will attend <a href="https://www.kdd.org/kdd2019/" target="_blank">KDD 2019</a> at Alaska from Aug.4 to Aug.8 to present my recently accepted paper <a href="https://research.yahoo.com/publications/9133/understanding-consumer-journey-using-attention-based-recurrent-neural-networks" target="_blank">"Understanding Consumer Journey using Attention based Recurrent Neural Networks"</a>. 
+<b>[2019.04.28]</b> I will attend <a href="https://www.kdd.org/kdd2019/" target="_blank">KDD 2019</a> at Alaska from Aug.4 to Aug.8 to present our recently accepted paper <a href="https://research.yahoo.com/publications/9133/understanding-consumer-journey-using-attention-based-recurrent-neural-networks" target="_blank">"Understanding Consumer Journey using Attention based Recurrent Neural Networks"</a>. 
 
 <br />
 
 <b>[2019.01.01]</b> I will join Gemini X at <a href="https://research.yahoo.com/" target="_blank">Yahoo Research</a> as an intern during 2019 summer. 
+
 
 
 
