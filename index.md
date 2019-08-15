@@ -1,11 +1,12 @@
 ---
 layout: home2
-description: "Yichao Zhou"
+<!-- title: Me in a Nutshell -->
+description: "Yichao Zhou's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: cover.jpg
 ---
-
+###About me<br>
 Yichao Zhou is a coming fourth-year Ph.D student in <a href="https://scai.cs.ucla.edu/" target="_blank">Scalable Analytics Institute (ScAi)</a>, Department of Computer Science at University of California, Los Angeles (UCLA) advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Professor Wei Wang</a>. Yichao Zhou 's research interests focus on natural language processing, information retrival and text mining.
 
 <br>
