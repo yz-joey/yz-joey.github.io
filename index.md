@@ -7,7 +7,7 @@ image:
   feature: cover.jpg
 ---
 <b>About me:</b><br>
-Yichao Zhou is a coming fourth-year Ph.D student in <a href="https://scai.cs.ucla.edu/" target="_blank">Scalable Analytics Institute (ScAi)</a>, Department of Computer Science at University of California, Los Angeles (UCLA) advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Professor Wei Wang</a>. Yichao Zhou 's research interests focus on natural language processing, information retrival and text mining.
+Yichao Zhou is a coming fourth-year Ph.D student in <a href="https://scai.cs.ucla.edu/" target="_blank">Scalable Analytics Institute (ScAi)</a>, Department of Computer Science at University of California, Los Angeles (UCLA) advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Professor Wei Wang</a>. Yichao Zhou's research interests focus on natural language processing, information retrival and text mining.
 
 <br>
 <b>Contact Information:</b><br>
@@ -28,7 +28,7 @@ Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 900
 
 <br />
 
-<b>[2019.01.01]</b> I will join Gemini X at <a href="https://research.yahoo.com/" target="_blank">Yahoo Research</a> as an intern during 2019 summer. 
+<b>[2019.01.01]</b> I will join Gemini Team at <a href="https://research.yahoo.com/" target="_blank">Yahoo Research</a> as an intern during 2019 summer. 
 
 
 
