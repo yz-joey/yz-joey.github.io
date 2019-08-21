@@ -59,7 +59,7 @@ comments: true
 
 ---------------------------------------
 
-### [ACL 2017] [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/pdf/1704.04368.pdf) [[Tensorflow Python2]](https://github.com/abisee/pointer-generator) [[Tensorflow Python3]](https://github.com/becxer/pointer-generator/) [[Pytorch Python2]](https://github.com/atulkum/pointer_summarizer)
+### [ACL 2017] [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/pdf/1704.04368.pdf) [[Tensorflow Python2]](https://github.com/abisee/pointer-generator) [[Tensorflow Python3]](https://github.com/becxer/pointer-generator/) [[Pytorch Python2]](https://github.com/atulkum/pointer_summarizer) [[Data Prepossessing]](https://github.com/abisee/cnn-dailymail)
 
 * Neural **sequence-to-sequence models** have provided a viable new approach for abstractive text summarization but have two shortcomings: 
 	* they are liable to reproduce **factual details inaccurately**
