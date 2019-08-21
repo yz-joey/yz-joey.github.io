@@ -34,7 +34,7 @@ comments: true
 <img src="{{site.url}}/images/tgfif/multisource.png" alt="multisource" width="400"/>
 
 
-### [NAACL2019] [Keyphrase Generation: A Text Summarization Struggle] (https://www.aclweb.org/anthology/N19-1070)
+### [NAACL2019] [Keyphrase Generation: A Text Summarization Struggle](https://www.aclweb.org/anthology/N19-1070)
 
 * Problems of most existing keyphrase generation methods:
 	* First, they are not able to find **an optimal value for N** (number of keywords to generate for an article) based on article contents and require it as a preset parameter. 
