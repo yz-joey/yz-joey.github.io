@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "[Paper] Text Generation from Images"
+title: "[Paper] Image Captioning/Visual Question Answering"
 description: "Text Generation from Images"
 comments: true
 ---
 
-## Image Captioning/Visual Question Answering
 ### [CVPR 2018] [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](http://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Bottom-Up_and_Top-Down_CVPR_2018_paper.pdf)
 
 * **image processing**: the bottom-up mechanism (based on Faster R-CNN) proposes image regions, each with an associated feature vector, while the top-down mechanism determines feature weightings
@@ -96,7 +95,8 @@ as a secondary image representation
 ---------------------------------------
 * dataset is indeed visually grounded, but better image features do not hugely improve the results --> difficulty lies in the retrieving the relevant knowledge and reasoning required to answer the questions
 
-###[CVPR 2016] [DenseCap: Fully Convolutional Localization Networks for Dense Captioning](https://cs.stanford.edu/people/karpathy/densecap.pdf)
+
+### [CVPR 2016] [DenseCap: Fully Convolutional Localization Networks for Dense Captioning](https://cs.stanford.edu/people/karpathy/densecap.pdf)
 * introduce the dense captioning task, which requires a computer vision system to both **localize and describe salient regions** in images in natural language
 * propose a **Fully Convolutional Localization Network (FCLN)** architecture that
 processes an image with a single, efficient forward pass, requires **no external regions proposals**, and can be trained end-to-end with **a single round of optimization** (composed of a Convolutional Network, **a novel dense localization layer**, and Recurrent Neural Network language model that generates the label sequences)
@@ -109,7 +109,7 @@ processes an image with a single, efficient forward pass, requires **no external
 * localization layer is based on that of **Faster R-CNN** but replace their **RoI pooling mechanism** with **bilinear interpolation**
 * RoI pooling layer: gradients can be propagated backward from the output features to the input features, but not to the input proposal coordinates --> **bilinear interpolation**
 
-###[ICCV 2015] [Faster R-CNN](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
+### [ICCV 2015] [Faster R-CNN](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
 * complexity arises because **detection requires the accurate localization of objects**: 
 	* numerous candidate object locations (often called “proposals”) must be processed
 	* these candidates provide only rough localization that must be refined
