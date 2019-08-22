@@ -21,7 +21,7 @@ Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 900
 <b> WHAT'S NEW ~~~~~~~~ </b>
 
 <br />
-<b>[2019.08.13]</b> Our research long paper <a href="" target="_blank">"Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification"</a> was accepted by <a href="https://www.emnlp-ijcnlp2019.org/" target="_blank">EMNLP-IJCNLP 2019</a>. I will attend the conference at Hong Kong, China from Nov.3 to Nov.7 to present this work.
+<b>[2019.08.13]</b> Our research long paper <a href="https://www.dropbox.com/s/00o8nu0i9vmecwj/_EMNLP_19__Defense_of_Adversarial_Attacks_in_NLP__Camera_Ready_.pdf?dl=0" target="_blank">"Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification"</a> was accepted by <a href="https://www.emnlp-ijcnlp2019.org/" target="_blank">EMNLP-IJCNLP 2019</a>. I will attend the conference at Hong Kong, China from Nov.3 to Nov.7 to present this work.
 
 <br />
 
