@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "[Paper] Text Summarization"
-description: "Text Summarization"
+title: "[Paper] Text Generation"
+description: "Text Generation"
 comments: true
 ---
 
@@ -12,7 +12,7 @@ comments: true
 * the dataset is **not ideal for machine learning** since the abstract, the body and the infobox are only **loosely correlated**
 
 ---------------------------------------
-<img src="{{site.url}}/images/tgfif/wiki.png" alt="drawing" width="400"/>
+<img align="center" src="{{site.url}}/images/tgfif/wiki.png" alt="drawing" width="400"/>
 
 ---------------------------------------
 * the basic model used for generating company description is based on the [**RNN seq2seq model architecture** (Sutskever et al., 2014)](https://github.com/google/seq2seq/) which is divided into two main blocks: **encoder** which encodes the input sentence into fixed-length vector, and the **decoder** that decodes the vector into sequence of words
@@ -30,8 +30,8 @@ comments: true
 	* focuses on generating a summary from the question and multiple passages instead of extracting an answer span from the provided passages -->  introduce the [pointer-generator mechanism](https://arxiv.org/pdf/1704.04368.pdf) (See et al., 2017) for generating an abstractive answer from the question and multiple passages by extending to a **Transformer** one that allows words to be **generated from a vocabulary** and to be **copied from the question and passages**
 	* learns **multi-style answers** within a model to improve the NLG capability for all styles involved --> also extend the pointer-generator to **a conditional decoder** by introducing an artificial token corresponding to each style
 
-<img src="{{site.url}}/images/tgfif/masque.png" alt="masque" width="450"/>
-<img src="{{site.url}}/images/tgfif/multisource.png" alt="multisource" width="400"/>
+<img align="center" src="{{site.url}}/images/tgfif/masque.png" alt="masque" width="450"/>
+<img align="center" src="{{site.url}}/images/tgfif/multisource.png" alt="multisource" width="400"/>
 
 
 ### [NAACL2019] [Keyphrase Generation: A Text Summarization Struggle](https://www.aclweb.org/anthology/N19-1070)
@@ -44,7 +44,7 @@ comments: true
 * we explore **abstractive text summarization models** proposed in the literature, trained with article abstracts and titles as sources and keyword strings as targets. 
 * [**Pointer-Generator network (POINTCOV)**](https://arxiv.org/pdf/1704.04368.pdf) is composed of an **attention-based encoder** that produces the context vector. The decoder is extended with a **pointer-generator model** that computes a probability p_gen from the context vector, the decoder states, and the decoder output.
 
-<img src="{{site.url}}/images/tgfif/scores.png" alt="scores" width="650"/>
+<img align="center" src="{{site.url}}/images/tgfif/scores.png" alt="scores" width="650"/>
 
 * The results show that the tried text summarization models perform poorly on full-match keyword predictions. Their higher ROUGE scores further indicate that the problem is not entirely in the summarization process.
 
@@ -86,8 +86,8 @@ comments: true
 
 ### [arxiv19] [The Curious Case of Neural Text Degeneration](https://arxiv.org/pdf/1904.09751.pdf)
 
-<img src="{{site.url}}/images/tgfif/beamsearch.png" alt="scores" width="350"/>
-<img src="{{site.url}}/images/tgfif/beamsearch2.png" alt="scores" width="350"/>
+<img align="center" src="{{site.url}}/images/tgfif/beamsearch.png" alt="scores" width="350"/>
+<img align="center" src="{{site.url}}/images/tgfif/beamsearch2.png" alt="scores" width="350"/>
 
 ### [arxiv19] [SenseBERT: Driving Some Sense into BERT](https://arxiv.org/pdf/1908.05646.pdf)
 * propose a method to employ selfsupervision directly at the word sense level

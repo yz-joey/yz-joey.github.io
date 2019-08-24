@@ -67,8 +67,8 @@ def sequential_generation(seed_text, batch_size=10, max_len=15, leed_out_len=15,
 * **BERT**_LARGE needs unacceptable memory usage
 * We **filter repeated tri-grams in beam-search process** by setting word probability to zero if it will generate an tri-gram which exists in the existing summary. It is a nice method to avoid phrase repetition since the two datasets seldom contains repeated tri-grams in one summary
 
-<img src="{{site.url}}/images/lmg/bertgen1.png" alt="bertgen1" width="700"/>
-<img src="{{site.url}}/images/lmg/bertgen2.png" alt="bertgen2" width="700"/>
+<img align="center" src="{{site.url}}/images/lmg/bertgen1.png" alt="bertgen1" width="700"/>
+<img align="center" src="{{site.url}}/images/lmg/bertgen2.png" alt="bertgen2" width="700"/>
 
 **Comments:**
 
@@ -90,8 +90,8 @@ opt to predict a sentence using all sentences on both its left and right
     *  perform the indomain pre-training on the CNNDM (or NYT50)
     *  finetune HIBERT in the summarization model to predict extractive sentence labels
 
-<img src="{{site.url}}/images/lmg/hibert1.png" alt="hibert1" width="350"/>
-<img src="{{site.url}}/images/lmg/hibert2.png" alt="hibert2" width="300"/>
+<img align="center" src="{{site.url}}/images/lmg/hibert1.png" alt="hibert1" width="300"/>
+<img align="center" src="{{site.url}}/images/lmg/hibert2.png" alt="hibert2" width="300"/>
 
 **Comments:**
 
@@ -101,8 +101,8 @@ opt to predict a sentence using all sentences on both its left and right
 
 ### [ICML19] [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/pdf/1905.02450.pdf)
 
-<img src="{{site.url}}/images/lmg/mass1.png" alt="mass1" width="700"/>
-<img src="{{site.url}}/images/lmg/mass2.png" alt="mass2" width="700"/>
+<img align="center" src="{{site.url}}/images/lmg/mass1.png" alt="mass1" width="700"/>
+<img align="center" src="{{site.url}}/images/lmg/mass2.png" alt="mass2" width="700"/>
 
 * MASS adopts the **encoder-decoder framework** to reconstruct a sentence fragment given the remaining part of the sentence: 
     * its encoder takes a sentence with randomly masked fragment (several consecutive tokens) as input
@@ -116,14 +116,14 @@ opt to predict a sentence using all sentences on both its left and right
 
 ### [EMNLP19] [Text Summarization with Pretrained Encoders](https://arxiv.org/pdf/1908.08345.pdf) [[code]](https://github.com/nlpyang/PreSumm)
 
-<img src="{{site.url}}/images/lmg/bertsum1.png" alt="bertsum1" width="700"/>
+<img align="center" src="{{site.url}}/images/lmg/bertsum1.png" alt="bertsum1" width="700"/>
 
 * We use **a standard encoder-decoder framework for abstractive summarization** (See et al., 2017). The encoder is the pretrained BERTSUM and the decoder is a 6-layered Transformer initialized randomly
 * There is a **mismatch between the encoder and the decoder**, since the former is pretrained while the latter must be trained from scratch --> **make fine-tuning unstable** (the encoder might overfit the data while the decoder underfits) --> we design a new fine-tuning schedule which **separates the optimizers of the encoder and the decoder**
 * Using extractive objectives can boost the performance of abstractive summarization
 * Our decoder applies neither a copy nor a coverage mechanism (See et al., 2017), because we focus on building a minimum-requirements model and these mechanisms may introduce additional hyper-parameters to tune
 
-<img src="{{site.url}}/images/lmg/bertsum2.png" alt="bertsum2" width="350"/>
+<img align="center" src="{{site.url}}/images/lmg/bertsum2.png" alt="bertsum2" width="350"/>
 
 **Comments:**
 
@@ -138,8 +138,8 @@ opt to predict a sentence using all sentences on both its left and right
 
 **Comments:**
 
-* [Here](http://jalammar.github.io/illustrated-transformer/) illustrated the mechanism of transformer decoder generating text: <img src="http://jalammar.github.io/images/t/transformer_decoding_1.gif" alt="bertgen1" width="700"/>
-<img src="http://jalammar.github.io/images/t/transformer_decoding_2.gif" alt="bertgen1" width="700"/>
+* [Here](http://jalammar.github.io/illustrated-transformer/) illustrated the mechanism of transformer decoder generating text: <img align="center" src="http://jalammar.github.io/images/t/transformer_decoding_1.gif" alt="bertgen1" width="700"/>
+<img align="center" src="http://jalammar.github.io/images/t/transformer_decoding_2.gif" alt="bertgen1" width="700"/>
 
 
 ### [Appendix] [BERT Related Papers](https://github.com/tomohideshibata/BERT-related-papers) 
