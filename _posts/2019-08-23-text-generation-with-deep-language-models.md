@@ -5,14 +5,12 @@ description: "Text Generation with Deep Language Models"
 comments: true
 ---
 
-## Text Generation with Deep Language Model
-
 ### [OpenAIBlog19] [Language Models are Unsupervised Multitask Learners (GPT-2)](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) [[porject]](https://openai.com/blog/better-language-models/)
 
 * GPT-2 is a large **transformer-based** language model, which is trained with a simple objective: **predict the next word**, given all of the previous words within some text
 * GPT-2 is a direct **scale-up of GPT**, with more than **10X the parameters** and trained on more than **10X the amount of data**
 * We demonstrate language models can perform down-stream tasks in a zero-shot setting – without any parameter or architecture modification
-* It should model p(output|input, task), which has been variously formalized in multitask and meta-learning settings 
+* It should model p(output\|input, task), which has been variously formalized in multitask and meta-learning settings 
 * Get surprising results without any fine-tuning of GPT-2 models on some language tasks like question answering, reading comprehension, summarization, and translation
 
 
