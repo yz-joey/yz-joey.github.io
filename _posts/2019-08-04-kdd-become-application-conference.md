@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KDD 2019: Has KDD become an application conference?"
+title: "[Blog] KDD 2019: Has KDD become an application conference?"
 description: "KDD 2019: Has KDD become an application conference?"
 comments: true
 ---
