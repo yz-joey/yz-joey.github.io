@@ -132,6 +132,24 @@ opt to predict a sentence using all sentences on both its left and right
 * The trick of separate optimizers is interesting but hyperparameter tuning metric is not solid
 * The codes are written in pytorch, which is distributed and convenient to extend
 
+### [EMNLP19] [Denoising based Sequence-to-Sequence Pre-training for Text Generation](https://arxiv.org/pdf/1908.08206.pdf) [[code]](https://github.com/yuantiku/PoDA)
+
+* Unlike encoder-only (e.g., BERT) or decoder-only (e.g., OpenAI GPT) pre-training approaches, PoDA jointly **pretrains both the encoder and decoder** by denoising the noise-corrupted text
+* It keeps the network architecture unchanged in the subsequent fine-tuning stage
+* We design a **hybrid model of Transformer and pointer-generator networks** as the backbone architecture for PoDA
+* Like denoising autoencoders, PoDA works by denoising the noise-corrupted text sequences. There are three types of noises: **randomly shuffle, delete or replace the words** in a given sequence.
+
+<img src="{{site.url}}/images/lmg/poda1.png" alt="poda1" width="700"/>
+
+**Comments:**
+
+* This work is interesting because it leveraged denosing autoencoder to pretrain the langage model
+* Both BERT and GPT's loss functions are used, which tackles the problem that BERT as an autoencoder language model, is not designed for text generation
+* The analysis of linguistic quality is not solid with several sets of case study
+* The difference between BERTSUM and PoDA:
+    * BERTSUM only pretrains encoder and uses different optimizers to tackle the mismatch between decoder and encoder but PoDA pretrains both encoder and decoder
+    * The training objective of BERTSUM is a document-version of BERT but PoDA uses autoencoder denosing method
+    * After comparing these two models, I prefer PoDA because it works as a whole and BERTSUM did a trivial improvement model-wise
 
 
 ### [NIPS17] [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) [[tensorflow]](https://github.com/jadore801120/attention-is-all-you-need-pytorch) [[pytorch]](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
