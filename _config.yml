@@ -1,10 +1,11 @@
 title:            Yichao Zhou
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //yz-joey.github.io
+url:              https://yz-joey.github.io
 #http://localhost:5000
 #https://yz-joey.github.io
-disqus_shortname: yz-joey
+disqus:
+  shortname: yz-joey
 
 # Owner/author information
 owner:
