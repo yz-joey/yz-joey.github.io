@@ -12,7 +12,7 @@ Yichao Zhou is a third-year Ph.D candidate in <a href="https://scai.cs.ucla.edu/
 
 <br>
 <b>Contact Information:</b><br>
-E-mail: yz [AT] cs [DOT] edu [DOT] com<br>
+E-mail: yz [AT] cs [DOT] ucla [DOT] edu<br>
 Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 90095, United States
 
 
