@@ -7,5 +7,5 @@ modified: 5-28-2019
 comments: false
 ---
 
-You can also download my <a href="{{ site.url }}/files/cv.pdf" target="_blank">full CV</a>.
+You can also download my <a href="{{ site.url }}/files/CV.pdf" target="_blank">full CV</a>.
 
