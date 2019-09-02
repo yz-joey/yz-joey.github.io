@@ -28,7 +28,7 @@ Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 900
 
 <br />
 
-<b>[2019.04]</b> I will attend <a href="https://www.kdd.org/kdd2019/" target="_blank">KDD 2019</a> at Alaska from Aug.4 to Aug.8 to present our recently accepted paper <a href="https://research.yahoo.com/publications/9133/understanding-consumer-journey-using-attention-based-recurrent-neural-networks" target="_blank">"Understanding Consumer Journey using Attention based Recurrent Neural Networks"</a>. 
+<b>[2019.04]</b> I will attend <a href="https://www.kdd.org/kdd2019/" target="_blank">KDD 2019</a> at Alaska from Aug.4 to Aug.8 to present our recently accepted paper <a href="https://research.yahoo.com/publications/9133/understanding-consumer-journey-using-attention-based-recurrent-neural-networks" target="_blank">"Understanding Consumer Journey using Attention based Recurrent Neural Networks"</a>. <a href="https://yz-joey.github.io/kdd19" target="_blank">UPDATE</a>
 
 <br />
 
