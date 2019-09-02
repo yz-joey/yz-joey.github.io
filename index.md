@@ -6,7 +6,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: cover.jpg
 ---
-<b>About me:</b><br>
+<b>About me <a href="{{ site.url }}/files/CV.pdf" target="_blank">[Curriculum Vitae]</a>:</b><br>
 Yichao Zhou is a third-year Ph.D candidate in <a href="https://scai.cs.ucla.edu/" target="_blank">Scalable Analytics Institute (ScAi)</a>, Department of Computer Science at University of California, Los Angeles (UCLA) advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Professor Wei Wang</a>. Yichao Zhou's research interests focus on natural language processing and text mining. Currently, he is working on figurative language processing, malicious language processing and biomedical text mining problems.
  
 
@@ -14,6 +14,7 @@ Yichao Zhou is a third-year Ph.D candidate in <a href="https://scai.cs.ucla.edu/
 <b>Contact Information:</b><br>
 E-mail: yz [AT] cs [DOT] ucla [DOT] edu<br>
 Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 90095, United States
+
 
 
 <br />
