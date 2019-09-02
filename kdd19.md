@@ -8,7 +8,7 @@ comments: false
 ---
 
 ### Yahoo! Research @ KDD19
-<img align="middle" src="{{ site.url }}/images/kdd19_1.JPG" alt="...">
+<img align="middle" src="{{ site.url }}/images/kdd19_1.png" alt="...">
 
 
 ### Our Poster and Co-authors
