@@ -35,7 +35,6 @@ Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 900
 
 <b>[2019.01]</b> I will join Gemini Team at <a href="https://research.yahoo.com/" target="_blank">Yahoo Research</a> as an intern during 2019 summer. 
 
-<a href="https://clustrmaps.com/site/1awxz" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=DNuygLcECkkuI7eUeEmaUyw9tOOQlmU0L63ikpT-wko&cl=ffffff"></a>
 
 
 
