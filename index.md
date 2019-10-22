@@ -22,6 +22,9 @@ Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 900
 <b> WHAT'S NEW ~~~~~~~~ </b>
 
 <br />
+<b>[2019.10]</b> Our preprint <a href="https://www.medrxiv.org/content/medrxiv/early/2019/10/22/19009118.full.pdf" target="_blank">"Clinical Narrative paper</a> is available now! The resulting dataset is appropriate for training biomedical natural language processing systems.
+
+<br />
 <b>[2019.09]</b> I passed the Oral Qualifying Exam at CS department of UCLA and was advanced to candidacy.
 
 <br />
