@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /teaching/32/
 title: CS 32: Introduction to Computer Science II  
-tags: [teaching]
-modified: 1-10-2020
+tags: [teaching/32/]
+modified: 1-1-2020
 comments: false
 ---
 

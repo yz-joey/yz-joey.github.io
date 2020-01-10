@@ -2,7 +2,7 @@ title:            Yichao Zhou
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              https://yz-joey.github.io
-#http://localhost:5000
+                  #http://localhost:5000
 #https://yz-joey.github.io
 disqus:
   shortname: yz-joey
@@ -37,7 +37,7 @@ links:
   - title: Projects
     url: /projects/
   - title: Teaching
-    url: /teaching/
+    url: /teaching/32/
   - title: Blog
     url: /blog/
   - title: Gallery
