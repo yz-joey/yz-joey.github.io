@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/cs32/
+permalink: /teaching/
 title: CS32 Introduction to Computer Science II  
 tags: [teaching]
 modified: 1-1-2020
