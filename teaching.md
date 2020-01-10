@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/cs32/
+permalink: /teaching/
 title: CS 32: Introduction to Computer Science II  
 tags: [teaching]
 modified: 1-10-2020
@@ -10,8 +10,6 @@ comments: false
 **Discussion 2E (2:00pm-3:50pm)** Boelter Hall 5422
 
 **Office Hour** Wed (9:30am-10:30am, 4:30pm-6:30pm), Boelter Hall 3256S
-
-**TA** Yichao (Joey)  Zhou
 
 
 
