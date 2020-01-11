@@ -22,6 +22,9 @@ Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 900
 <b> WHAT'S NEW ~~~~~~~~ </b>
 
 <br />
+<b>[2020.01]</b> Our recent work on "Recommending Themes for Ad Creative Design via Visual-Linguistic Representations" has been accepted by <a href="https://www2020.thewebconf.org/" target="_blank">WWW 2020</a> as a short paper with oral presentation. See you in Taipei!
+
+<br />
 <b>[2019.10]</b> Our preprint <a href="https://www.medrxiv.org/content/medrxiv/early/2019/10/22/19009118.full.pdf" target="_blank">Clinical Narrative paper</a> is available now! The resulting dataset is appropriate for training biomedical natural language processing systems.
 
 <br />
@@ -36,8 +39,8 @@ Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 900
 
 <br />
 
-<b>[2019.01]</b> I will join Gemini Team at <a href="https://research.yahoo.com/" target="_blank">Yahoo Research</a> as an intern during 2019 summer. 
-
+<!-- <b>[2019.01]</b> I will join Gemini Team at <a href="https://research.yahoo.com/" target="_blank">Yahoo Research</a> as an intern during 2019 summer. 
+ -->
 
 
 
