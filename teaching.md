@@ -18,7 +18,7 @@ comments: false
 **week-1(1/10/2020)** Lecture by Professor 
 <br>
 
-**week-2(1/17/2020)** Dynamic memory allocation, copy constructor
+**week-2(1/17/2020)** Dynamic memory allocation, copy constructor, assignment operator <a href="{{ site.url }}/files/w2.pdf" target="_blank">[slides]</a>
 <br>
 
 **week-3(1/24/2020)** Lecture by Professor
