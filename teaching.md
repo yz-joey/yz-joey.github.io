@@ -24,10 +24,10 @@ comments: false
 **week-3(1/24/2020)** Lecture by Professor
 <br>
 
-**week-4(1/31/2020)** Linked Lists
+**week-4(1/31/2020)** Linked Lists, Stack & Queue <a href="" target="_blank">[slides]</a>
 <br>
 
-**week-5(2/7/2020)**  Stack & Queue; Inheritance; Polymorphism
+**week-5(2/7/2020)**  Inheritance; Polymorphism
 <br>
 
 **week-6(2/14/2020)** Recursion, Template and STL

@@ -22,6 +22,9 @@ Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 900
 <b> WHAT'S NEW ~~~~~~~~ </b>
 
 <br />
+<b>[2020.01]</b> I will join the Juicer Team at Google Research, Mountain View as an intern during 2020 summer. 
+
+<br />
 <b>[2020.01]</b> Our recent work on <a href="http://arxiv.org/abs/2001.07194" target="_blank">"Recommending Themes for Ad Creative Design via Visual-Linguistic Representations"</a> has been accepted by <a href="https://www2020.thewebconf.org/" target="_blank">WWW 2020</a> as a short paper with oral presentation. See you in Taipei!
 
 <br />
