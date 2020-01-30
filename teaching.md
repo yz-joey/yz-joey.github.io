@@ -18,13 +18,13 @@ comments: false
 **week-1(1/10/2020)** Lecture by Professor 
 <br>
 
-**week-2(1/17/2020)** Dynamic memory allocation, copy constructor, assignment operator <a href="{{ site.url }}/files/w2.pdf" target="_blank">[slides]</a>
+**week-2(1/17/2020)** Dynamic memory allocation, copy constructor, assignment operator <a href="{{ site.url }}/files/w2.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/w2-ws.pdf" target="_blank">[worksheets]</a> <a href="{{ site.url }}/files/w2-ws-sol.pdf" target="_blank">[solution]</a>
 <br>
 
 **week-3(1/24/2020)** Lecture by Professor
 <br>
 
-**week-4(1/31/2020)** Linked Lists, Stack & Queue <a href="" target="_blank">[slides]</a>
+**week-4(1/31/2020)** Linked Lists, Stack & Queue <a href="" target="_blank">[slides]</a> <a href="{{ site.url }}/files/w4-ws.pdf" target="_blank">[worksheets]</a>
 <br>
 
 **week-5(2/7/2020)**  Inheritance; Polymorphism
