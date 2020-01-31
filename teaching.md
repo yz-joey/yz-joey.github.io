@@ -24,7 +24,7 @@ comments: false
 **week-3(1/24/2020)** Lecture by Professor
 <br>
 
-**week-4(1/31/2020)** Linked Lists, Stack & Queue <a href="" target="_blank">[slides]</a> <a href="{{ site.url }}/files/w4-ws.pdf" target="_blank">[worksheets]</a>
+**week-4(1/31/2020)** Linked Lists, Stack & Queue <a href="{{ site.url }}/files/w4.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/w4-ws.pdf" target="_blank">[worksheets]</a>
 <br>
 
 **week-5(2/7/2020)**  Inheritance; Polymorphism
