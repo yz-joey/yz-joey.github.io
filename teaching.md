@@ -24,13 +24,13 @@ comments: false
 **week-3(1/24/2020)** Lecture by Professor
 <br>
 
-**week-4(1/31/2020)** Linked Lists, Stack & Queue <a href="{{ site.url }}/files/w4.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/w4-ws.pdf" target="_blank">[worksheets]</a>
+**week-4(1/31/2020)** Linked Lists, Stack & Queue <a href="{{ site.url }}/files/w4.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/w4-ws.pdf" target="_blank">[worksheets]</a> <a href="{{ site.url }}/files/w4-ws-sol.pdf" target="_blank">[solution]</a>
 <br>
 
-**week-5(2/7/2020)**  Inheritance; Polymorphism
+**week-5(2/7/2020)**  Lecture by Professor <a href="{{ site.url }}/files/w5-ws.pdf" target="_blank">[worksheets]</a> 
 <br>
 
-**week-6(2/14/2020)** Recursion, Template and STL
+**week-6(2/14/2020)** Inheritance, Polymorphism, Recursion, Template and STL
 <br>
 
 **week-7(2/21/2020)** Mid-term Review
