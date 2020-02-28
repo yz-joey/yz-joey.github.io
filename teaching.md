@@ -33,13 +33,13 @@ comments: false
 **week-6(2/14/2020)** Inheritance, Polymorphism, Recursion, Template and STL <a href="{{ site.url }}/files/w6.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/w6-ws.pdf" target="_blank">[worksheets]</a> <a href="{{ site.url }}/files/w6-ws-sol.pdf" target="_blank">[solution]</a>
 <br>
 
-**week-7(2/21/2020)** STL, Big-O and Sorting <a href="{{ site.url }}/files/w7.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/w7-ws.pdf" target="_blank">[worksheets]</a> 
+**week-7(2/21/2020)** STL, Big-O and Sorting <a href="{{ site.url }}/files/w7.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/w7-ws.pdf" target="_blank">[worksheets]</a> <a href="{{ site.url }}/files/w7-ws-sol.pdf" target="_blank">[solution]</a>
 <br>
 
-**week-8(2/28/2020)** Tree
+**week-8(2/28/2020)**  Hash Table <a href="{{ site.url }}/files/w8.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/w8-ws.pdf" target="_blank">[worksheets]</a> <a href="{{ site.url }}/files/w8-ws-sol.pdf" target="_blank">[solution]</a>
 <br>
 
-**week-9(3/6/2020)**  Binary Search Tree, Hash Table
+**week-9(3/6/2020)**  Tree, Binary Search Tree
 <br>
 
 **week-10(3/13/2020)** Final Review
