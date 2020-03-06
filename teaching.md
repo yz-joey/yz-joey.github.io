@@ -39,7 +39,7 @@ comments: false
 **week-8(2/28/2020)**  Hash Table <a href="{{ site.url }}/files/w8.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/w8-ws.pdf" target="_blank">[worksheets]</a> <a href="{{ site.url }}/files/w8-ws-sol.pdf" target="_blank">[solution]</a>
 <br>
 
-**week-9(3/6/2020)**  Tree, Binary Search Tree
+**week-9(3/6/2020)**  Tree, Binary Search Tree <a href="{{ site.url }}/files/w9.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/w9-ws.pdf" target="_blank">[worksheets]</a> <a href="{{ site.url }}/files/w9-ws-sol.pdf" target="_blank">[solution]</a>
 <br>
 
 **week-10(3/13/2020)** Final Review
