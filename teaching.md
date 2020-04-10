@@ -3,9 +3,29 @@ layout: page
 permalink: /teaching/
 title: CS32 Introduction to Computer Science II  
 tags: [teaching]
-modified: 1-1-2020
+modified: 4-1-2020
 comments: false
 ---
+
+* Spring 2020
+
+**Discussion 1J (2:00pm-3:50pm)** Online
+
+**Office Hour** Wed (10:30am-11:30am, 4:30pm-6:30pm), Fri (8:30am-9:30am)
+
+## Discussion Slides
+
+**week-1(1/10/2020)** Skipped 
+<br>
+
+**week-2(1/17/2020)** Dynamic memory allocation, copy constructor, assignment operator <a href="{{ site.url }}/files/s-w2.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/s-w2-ws.pdf" target="_blank">[worksheets]</a> 
+<br>
+
+
+<!--
+
+
+* Winter 2020
 
 **Discussion 2E (2:00pm-3:50pm)** Boelter Hall 5422
 
@@ -44,3 +64,5 @@ comments: false
 
 **week-10(3/13/2020)** Final Review
 <br>
+
+-->
