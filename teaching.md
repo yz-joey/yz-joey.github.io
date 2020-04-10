@@ -7,7 +7,7 @@ modified: 4-1-2020
 comments: false
 ---
 
-* Spring 2020
+**Spring 2020**
 
 **Discussion 1J (2:00pm-3:50pm)** Online
 
@@ -15,10 +15,34 @@ comments: false
 
 ## Discussion Slides
 
-**week-1(1/10/2020)** Skipped 
+**week-1(4/3/2020)** Skipped 
 <br>
 
-**week-2(1/17/2020)** Dynamic memory allocation, copy constructor, assignment operator <a href="{{ site.url }}/files/s-w2.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/s-w2-ws.pdf" target="_blank">[worksheets]</a> 
+**week-2(4/10/2020)** Dynamic memory allocation, copy constructor, assignment operator <a href="{{ site.url }}/files/s-w2.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/s-w2-ws.pdf" target="_blank">[worksheets]</a> 
+<br>
+
+**week-3(4/17/2020)** Lecture by Professor
+<br>
+
+**week-4(4/24/2020)** Linked Lists, Stack & Queue 
+<br>
+
+**week-5(5/1/2020)**  Lecture by Professor
+<br>
+
+**week-6(5/8/2020)** Inheritance, Polymorphism, Recursion, Template and STL 
+<br>
+
+**week-7(5/15/2020)** STL, Big-O and Sorting 
+<br>
+
+**week-8(5/22/2020)**  Hash Table 
+<br>
+
+**week-9(5/29/2020)**  Tree, Binary Search Tree 
+<br>
+
+**week-10(6/5/2020)** Final Review
 <br>
 
 
