@@ -24,7 +24,7 @@ comments: false
 **week-3(4/17/2020)** Linked Lists <a href="{{ site.url }}/files/s-w3.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/s-w3-ws.pdf" target="_blank">[worksheets]</a> 
 <br>
 
-**week-4(4/24/2020)** Stack & Queue 
+**week-4(4/24/2020)** Stack & Queue <a href="{{ site.url }}/files/s-w4.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/s-w4-ws.pdf" target="_blank">[worksheets]</a> 
 <br>
 
 **week-5(5/1/2020)**  Lecture by Professor
