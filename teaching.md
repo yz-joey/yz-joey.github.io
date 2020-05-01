@@ -27,10 +27,10 @@ comments: false
 **week-4(4/24/2020)** Stack & Queue <a href="{{ site.url }}/files/s-w4.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/s-w4-ws.pdf" target="_blank">[worksheets]</a> 
 <br>
 
-**week-5(5/1/2020)**  Lecture by Professor
+**week-5(5/1/2020)** Inheritance, Polymorphism <a href="{{ site.url }}/files/s-w5.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/s-w5-ws.pdf" target="_blank">[worksheets]</a> 
 <br>
 
-**week-6(5/8/2020)** Inheritance, Polymorphism, Recursion, Template and STL 
+**week-6(5/8/2020)** Recursion, Template and STL 
 <br>
 
 **week-7(5/15/2020)** STL, Big-O and Sorting 
