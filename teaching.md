@@ -30,10 +30,10 @@ comments: false
 **week-5(5/1/2020)** Inheritance, Polymorphism <a href="{{ site.url }}/files/s-w5.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/s-w5-ws.pdf" target="_blank">[worksheets]</a> 
 <br>
 
-**week-6(5/8/2020)** Recursion, Template and STL 
+**week-6(5/8/2020)** Recursion <a href="{{ site.url }}/files/s-w6.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/s-w6-ws.pdf" target="_blank">[worksheets]</a> 
 <br>
 
-**week-7(5/15/2020)** STL, Big-O and Sorting 
+**week-7(5/15/2020)** Template, STL, Big-O and Sorting 
 <br>
 
 **week-8(5/22/2020)**  Hash Table 
