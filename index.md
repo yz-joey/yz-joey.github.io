@@ -24,6 +24,7 @@ Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 900
 <br />
 <b>[2020.05]</b> Serve as a PC member of KDD 2020 Research and ADS tracks; PC member of AACL-IJCNLP 2020 Information Extraction Track. 
 
+<br />
 <b>[2020.04]</b> Our research long paper "The Boating Store Had Its Best Sail Ever": Pronunciation-attentive Contextualized Pun Recognition was accepted by ACL 2020! See you in the online conference! 
 
 <br />
