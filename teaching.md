@@ -33,10 +33,10 @@ comments: false
 **week-6(5/8/2020)** Recursion <a href="{{ site.url }}/files/s-w6.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/s-w6-ws.pdf" target="_blank">[worksheets]</a> 
 <br>
 
-**week-7(5/15/2020)** Template, STL, Big-O and Sorting 
+**week-7(5/15/2020)** Template, STL <a href="{{ site.url }}/files/s-w7.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/s-w7-ws.pdf" target="_blank">[worksheets]</a> 
 <br>
 
-**week-8(5/22/2020)**  Hash Table 
+**week-8(5/22/2020)**  Big-O, Sorting, and Hash Table 
 <br>
 
 **week-9(5/29/2020)**  Tree, Binary Search Tree 
