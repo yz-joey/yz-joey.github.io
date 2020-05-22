@@ -11,14 +11,14 @@ comments: false
 
 **Discussion 1J (2:00pm-3:50pm)** Online
 
-**Office Hour** Wed (10:30am-11:30am, 4:30pm-6:30pm), Fri (8:30am-9:30am)
+**Office Hour** Wed (4:30pm-6:30pm), Fri (8:30am-9:30am, 4:00pm-5:00pm)
 
 ## Discussion Slides
 
 **week-1(4/3/2020)** Skipped 
 <br>
 
-**week-2(4/10/2020)** Dynamic memory allocation, copy constructor, assignment operator <a href="{{ site.url }}/files/s-w2.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/s-w2-ws.pdf" target="_blank">[worksheets]</a> 
+**week-2(4/10/2020)** Dynamic Memory Allocation, Copy Constructor, Assignment Operator <a href="{{ site.url }}/files/s-w2.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/s-w2-ws.pdf" target="_blank">[worksheets]</a> 
 <br>
 
 **week-3(4/17/2020)** Linked Lists <a href="{{ site.url }}/files/s-w3.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/s-w3-ws.pdf" target="_blank">[worksheets]</a> 
@@ -39,7 +39,7 @@ comments: false
 **week-8(5/22/2020)** Big-O, Sorting <a href="{{ site.url }}/files/s-w8.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/s-w8-ws.pdf" target="_blank">[worksheets]</a> 
 <br>
 
-**week-9(5/29/2020)**  Hash Table, Tree, Binary Search Tree 
+**week-9(5/29/2020)** Hash Table, Tree, Binary Search Tree 
 <br>
 
 **week-10(6/5/2020)** Final Review
