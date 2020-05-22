@@ -36,10 +36,10 @@ comments: false
 **week-7(5/15/2020)** Template, STL <a href="{{ site.url }}/files/s-w7.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/s-w7-ws.pdf" target="_blank">[worksheets]</a> 
 <br>
 
-**week-8(5/22/2020)**  Big-O, Sorting, and Hash Table 
+**week-8(5/22/2020)** Big-O, Sorting <a href="{{ site.url }}/files/s-w8.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/s-w8-ws.pdf" target="_blank">[worksheets]</a> 
 <br>
 
-**week-9(5/29/2020)**  Tree, Binary Search Tree 
+**week-9(5/29/2020)**  Hash Table, Tree, Binary Search Tree 
 <br>
 
 **week-10(6/5/2020)** Final Review
