@@ -42,7 +42,8 @@ comments: false
 **week-9(5/29/2020)** Hash Table, Tree, Binary Search Tree <a href="{{ site.url }}/files/s-w9.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/s-w9-ws.pdf" target="_blank">[worksheets]</a> 
 <br>
 
-**week-10(6/5/2020)** Final Review
+**week-10(6/5/2020)** Heap, Priority Queue, Final Review<a href="{{ site.url }}/files/s-w10.pdf" target="_blank">[slides]</a> <a href="https://docs.google.com/document/d/1W9DfRq1Vc3FLDpkI7lReO6yy2_gjBqioWVib5ZCgAc4/edit" target="_blank">[worksheets]</a> 
+<br>
 <br>
 
 
