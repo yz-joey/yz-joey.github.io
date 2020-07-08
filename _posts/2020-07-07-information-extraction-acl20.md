@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Interesting ACL20 Papers of Information Extraction"
+title: "[Paper] Interesting ACL20 Papers of Information Extraction"
 description: "Interesting ACL20 Papers of Information Extraction"
 comments: true
 
 ---
-
-# Interesting ACL20 Papers of Information Extraction
 
 ## ZeroShotCeres: Zero-Shot Relation Extraction from Semi-Structured Webpages [(link)](https://www.aclweb.org/anthology/2020.acl-main.721.pdf)
 
@@ -14,7 +12,7 @@ comments: true
 
 * ZEROSHOTCERES is a **graph neural network model** that encodes **semantic textual and visual patterns** common across different training websites.
 
-* ![image-20200707164816249]({{site.url}}/_posts/images/07-07-1.png)
+* <img align="center" src="{{site.url}}/_posts/images/07-07-1.png" alt="drawing" width="600"/>
 
   1. The method builds **a graph to capture the layout relationships** in a more abstract form to more easily learn the **common features across different sites** such as the fact that relation strings are often to the left or above their objects.
 
@@ -28,7 +26,7 @@ comments: true
 
      (3) **DOM**: Edges are added when two text fields are siblings or cousins in the DOM tree.
 
-     <img src="{{site.url}}/_posts/images/07-07-2.png" alt="image-20200707165519754" style="zoom:50%;" />
+     <img align="center" src="{{site.url}}/_posts/images/07-07-2.png" alt="image-20200707165519754" style="zoom:50%;" />
 
   4. For each text field on the page, the authors produce an initial feature vector containing both **visual feature vector V** (bounding box coordinate, height and width, ...) and **textual feature vector T **(texts processed with a pre-trained BERT, the percent of pages on the site on which the string in the text field appear).  
 
@@ -42,3 +40,5 @@ comments: true
   * [Dataset](https://homes.cs.washington.edu/~lockardc/expanded_swde.html)
   * Pretraining enhances the generality. 
   * One suprising thing in the OpenIE setting: only a single textual feature is used (the percent of pages on the site on which the string in the text field appear). 
+
+## 
