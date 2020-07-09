@@ -7,7 +7,7 @@ image:
   feature: cover.jpg
 ---
 <b>About me <a href="{{ site.url }}/files/CV.pdf" target="_blank">[Curriculum Vitae]</a>:</b><br>
-Yichao Zhou is a third-year Ph.D candidate in <a href="https://scai.cs.ucla.edu/" target="_blank">Scalable Analytics Institute (ScAi)</a>, Department of Computer Science at University of California, Los Angeles (UCLA) advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Professor Wei Wang</a>. Yichao Zhou's research interests focus on natural language processing and text mining. Currently, he is working on figurative language processing, malicious language processing and biomedical text mining problems.
+Yichao Zhou is a third-year Ph.D candidate in <a href="https://scai.cs.ucla.edu/" target="_blank">Scalable Analytics Institute (ScAi)</a>, Department of Computer Science at University of California, Los Angeles (UCLA) advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Professor Wei Wang</a>. Yichao Zhou's research interests focus on natural language processing and text mining. Currently, he is working on Low-resource Information Extraction from different domains, such as figurative language, clinical case reports and semi-structured web pages. 
  
 
 <br>
@@ -44,9 +44,9 @@ Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 900
 
 <br />
 
-<b>[2019.04]</b> I will attend <a href="https://www.kdd.org/kdd2019/" target="_blank">KDD 2019</a> at Alaska from Aug.4 to Aug.8 to present our recently accepted paper <a href="https://research.yahoo.com/publications/9133/understanding-consumer-journey-using-attention-based-recurrent-neural-networks" target="_blank">"Understanding Consumer Journey using Attention based Recurrent Neural Networks"</a>. <a href="https://yz-joey.github.io/kdd19" target="_blank">[pictures]</a>
+<!-- <b>[2019.04]</b> I will attend <a href="https://www.kdd.org/kdd2019/" target="_blank">KDD 2019</a> at Alaska from Aug.4 to Aug.8 to present our recently accepted paper <a href="https://research.yahoo.com/publications/9133/understanding-consumer-journey-using-attention-based-recurrent-neural-networks" target="_blank">"Understanding Consumer Journey using Attention based Recurrent Neural Networks"</a>. <a href="https://yz-joey.github.io/kdd19" target="_blank">[pictures]</a>
 
-<br />
+<br /> -->
 
 <!-- <b>[2019.01]</b> I will join Gemini Team at <a href="https://research.yahoo.com/" target="_blank">Yahoo Research</a> as an intern during 2019 summer. 
  -->
