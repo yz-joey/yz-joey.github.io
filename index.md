@@ -22,6 +22,9 @@ Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 900
 <b> WHAT'S NEW ~~~~~~~~ </b>
 
 <br />
+<b>[2020.07]</b> One collaborative work with <a href="https://cheng-cz.github.io/" target="_blank">Cheng Zheng</a> on topic user geolocation recognition was accepted by SIGIR 2020. Another collaborative work with <a href="https://sites.google.com/site/shaunakmishracomm/" target="_blank">Shaunak Mishra</a> was accepted by CIKM 2020, focusing on creative optimization topic in the advertising domain.
+
+<br />
 <b>[2020.05]</b> Serve as a PC member of KDD 2020 Research and ADS tracks; PC member of AACL-IJCNLP 2020 Information Extraction Track. 
 
 <br />
@@ -39,10 +42,10 @@ Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 900
 <br />
 <b>[2019.09]</b> I passed the Oral Qualifying Exam at CS department of UCLA and was advanced to candidacy.
 
-<br />
+<!-- <br />
 <b>[2019.08]</b> Our research long paper <a href="https://www.aclweb.org/anthology/D19-1496/" target="_blank">"Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification"</a> was accepted by <a href="https://www.emnlp-ijcnlp2019.org/" target="_blank">EMNLP-IJCNLP 2019</a>. I will attend the conference at Hong Kong, China from Nov.3 to Nov.7 to present this work.
 
-<br />
+<br /> -->
 
 <!-- <b>[2019.04]</b> I will attend <a href="https://www.kdd.org/kdd2019/" target="_blank">KDD 2019</a> at Alaska from Aug.4 to Aug.8 to present our recently accepted paper <a href="https://research.yahoo.com/publications/9133/understanding-consumer-journey-using-attention-based-recurrent-neural-networks" target="_blank">"Understanding Consumer Journey using Attention based Recurrent Neural Networks"</a>. <a href="https://yz-joey.github.io/kdd19" target="_blank">[pictures]</a>
 
