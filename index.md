@@ -22,6 +22,9 @@ Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 900
 <b> WHAT'S NEW ~~~~~~~~ </b>
 
 <br />
+<b>[2020.09]</b> One collaborative work with <a href="https://rujunhan.github.io/" target="_blank">Rujun Han</a> and <a href="https://vnpeng.net/" target="_blank">Professor Nayun Peng</a> on topic End-to-End Event Temporal Relation Extraction was accepted by EMNLP 2020! 
+
+<br />
 <b>[2020.07]</b> One collaborative work with <a href="https://cheng-cz.github.io/" target="_blank">Cheng Zheng</a> on topic user geolocation recognition was accepted by SIGIR 2020. Another collaborative work with <a href="https://sites.google.com/site/shaunakmishracomm/" target="_blank">Shaunak Mishra</a> was accepted by CIKM 2020, focusing on creative optimization topic in the advertising domain.
 
 <br />
