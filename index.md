@@ -6,8 +6,8 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: cover.jpg
 ---
-<b>About me <a href="{{ site.url }}/files/CV.pdf" target="_blank">[Curriculum Vitae]</a>:</b><br>
-Yichao Zhou is a third-year Ph.D candidate in <a href="https://scai.cs.ucla.edu/" target="_blank">Scalable Analytics Institute (ScAi)</a>, Department of Computer Science at University of California, Los Angeles (UCLA) advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Professor Wei Wang</a>. Yichao Zhou's research interests focus on natural language processing and text mining. Currently, he is working on Low-resource Information Extraction from different domains, such as figurative language, clinical case reports and semi-structured web pages. 
+<b>About me <a href="{{ site.url }}/files/CV.pdf" target="_blank">[Curriculum Vitae Download]</a>:</b><br>
+Yichao Zhou is a fourth-year Ph.D candidate in <a href="https://scai.cs.ucla.edu/" target="_blank">Scalable Analytics Institute (ScAi)</a>, Department of Computer Science at University of California, Los Angeles (UCLA) advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Professor Wei Wang</a>. Yichao Zhou's research interests focus on natural language processing and text mining. Currently, he is working on Low-resource Information Extraction from different domains, such as figurative language, clinical case reports and semi-structured web pages. 
  
 
 <br>
