@@ -22,6 +22,10 @@ Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 900
 <b> WHAT'S NEW ~~~~~~~~ </b>
 
 <br />
+<b>[2020.09]</b>  Serve as a PC member of AAAI 2021 and a Publication Chair at NAACL 2021. 
+
+
+<br />
 <b>[2020.09]</b> One collaborative work with <a href="https://rujunhan.github.io/" target="_blank">Rujun Han</a> and <a href="https://vnpeng.net/" target="_blank">Professor Nanyun Peng</a> on topic End-to-End Event Temporal Relation Extraction (<a href="https://arxiv.org/abs/2009.07373" target="_blank">paper</a>) was accepted by EMNLP 2020! 
 
 <br />
