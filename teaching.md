@@ -1,13 +1,25 @@
 ---
 layout: page
 permalink: /teaching/
-title: CS32 Introduction to Computer Science II  
+title: CS30 Computer Science for All
 tags: [teaching]
-modified: 4-1-2020
+modified: 10-9-2020
 comments: false
 ---
 
-**Spring 2020**
+**Fall 2020**
+
+**Discussion 1A** Fri (2:00pm-3:50pm) Online
+**Office Hour** Wed (10:00am-12:00pm) Online
+
+Discussion Materials
+
+**week-1(10/9/2020)** Function, Picobot  <a href="{{ site.url }}/files/f-w1.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/f-w1-ws.py" target="_blank">[worksheets]</a> 
+<br>
+
+<!-- **Spring 2020**
+
+	CS32 Introduction to Computer Science II  
 
 **Discussion 1J (2:00pm-3:50pm)** Online
 
@@ -44,7 +56,7 @@ comments: false
 
 **week-10(6/5/2020)** Heap, Priority Queue, Final Review<a href="{{ site.url }}/files/s-w10.pdf" target="_blank">[slides]</a> <a href="https://docs.google.com/document/d/1W9DfRq1Vc3FLDpkI7lReO6yy2_gjBqioWVib5ZCgAc4/edit" target="_blank">[worksheets]</a> 
 <br>
-<br>
+<br> -->
 
 
 <!--
