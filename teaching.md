@@ -10,12 +10,14 @@ comments: false
 **Fall 2020**
 
 **Discussion 1A** Fri (2:00pm-3:50pm) Online
+
 **Office Hour** Wed (10:00am-12:00pm) Online
 
 <br>
 <br>
 **Discussion Materials**
 <br>
+
 **week-1(10/9/2020)** Function, Picobot  <a href="{{ site.url }}/files/f-w1.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/f-w1-ws.py" target="_blank">[worksheets]</a> 
 <br>
 
