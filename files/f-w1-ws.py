@@ -3,7 +3,9 @@
 #    Example: input: 2
 #             return value: 4
 def square(input):
-	return 0
+	return input ** 2
+	return input * input
+	return pow(input, 2)
 
 # 2. Implement a function differenceOfSquares that takes two input numbers and
 # returns the difference of their squares. Make use of square function that you
@@ -11,15 +13,16 @@ def square(input):
 # Example: input : n1 = 3, n2 = 2
 #          return value : 5
 def differenceOfSquares(n1, n2):
-	return 0
+	return square(n1) - square(n2)
 
 # 3. Implement function simpleInterest that takes as input principle p, rate r
 # (in %) and time t and returns the interest value.
 #   Example In : p = 3100.00, r = 7, t =1
 #           Out : 'Simple Interest = 217.00'
 #   Hint : Please lookup the formula for simple interest
+# Interest = p*r*t/100
 def simpleInterest(p, r, t):
-	return 0.0
+	return (p * r * t) / 100
 
 # 4. In digital electronics, a NAND gate (NOT-AND) is a logic gate which
 # produces an output which is False if and only if all its inputs are True.
@@ -29,8 +32,20 @@ def simpleInterest(p, r, t):
 #        nand(True, False) outputs True
 #        nand(False, False) outputs True
 #        nand(True, True) outputs False
-def nand(a, b):
-	return False
+
+# input   |   output
+# 1   1   |   0
+# 1   0   |   1
+# 0   1   |   1
+# 0   0   |   1
+def nand_integer(a, b): 
+	return 1 - a * b
+
+def nand_boolean(a, b): 
+	return not (a and b)
+
+def nand_boolean_2(a, b):
+	return not a or not b
 
 
 # 5. Write a function checkends(s), which takes in a string s and returns True
@@ -43,7 +58,7 @@ def nand(a, b):
 #          Out: False
 def checkends(s):
 	# assume s is not empty
-	return False
+	return s[0] == s[-1]
 
 # 6. Write the function palindrome(s) that checks if a string of exactly length
 # 4 is a palindrome (the same forwards as it is when the order is reversed).
@@ -54,7 +69,15 @@ def checkends(s):
 # Please use your checkends function.
 def palindrome(s):
 	# assume s has length 4
-	return False
+	return s[0] == s[3] and s[1] == s[2]
+
+def palindrome_2(s): 	
+	return s == s[-1::-1]
+
+# High-level trick (not necessary now!)
+# s[a:b:c]
+# a is the start, b is the end, c is the step.
+# in s[a:b], the second : is hidden and c is default as 1. 
 
 
 # 7. Write convertFromSeconds(s), which takes in a nonnegative integer number
@@ -74,10 +97,13 @@ def palindrome(s):
 # 12 // 5 = 2 because 2*5 < 12, but 3*5 > 12. Play with this operator to get a feel
 # for it.
 def convertFromSeconds(s):
-	days =  
-	hours = 
-	minutes = 
-	seconds = 
-	return [days, hours, minutes, seconds]
+	days = s // (24*60*60) 
+	s = s % (24*60*60)
+	hours = s // (60*60)
+	s = s % (60*60)
+	minutes = s // 60
+	seconds = s % 60
+	result = [days, hours, minutes, seconds]
+	return result
 
 

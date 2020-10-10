@@ -18,7 +18,7 @@ comments: false
 **Discussion Materials**
 <br>
 
-**week-1(10/9/2020)** Function, Picobot  <a href="{{ site.url }}/files/f-w1.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/f-w1-ws.py" target="_blank">[worksheets]</a> 
+**week-1(10/9/2020)** Function, Picobot  <a href="{{ site.url }}/files/f-w1.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/f-w1-ws.py" target="_blank">[worksheets-sol]</a> 
 <br>
 
 <!-- **Spring 2020**
