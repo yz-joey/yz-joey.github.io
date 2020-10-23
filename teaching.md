@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: CS30 Computer Science for All
+title: CS30 Principles and Practices of Computing
 tags: [teaching]
 modified: 10-9-2020
 comments: false
@@ -21,7 +21,10 @@ comments: false
 **week-1(10/9/2020)** Function, Picobot  <a href="{{ site.url }}/files/f-w1.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/f-w1-ws-sol.py" target="_blank">[worksheets-sol]</a> 
 <br>
 
-**week-2(10/16/2020)** If-Else, Recursion  <a href="{{ site.url }}/files/f-w2.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/f-w2-ws.py" target="_blank">[worksheets]</a> 
+**week-2(10/16/2020)** If-Else, Recursion  <a href="{{ site.url }}/files/f-w2.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/f-w2-ws-sol.py" target="_blank">[worksheets]</a> 
+<br>
+
+**week-3(10/23/2020)** Mid-term Review  <a href="{{ site.url }}/files/f-w3-ws.py" target="_blank">[worksheets]</a> 
 <br>
 
 <!-- **Spring 2020**
