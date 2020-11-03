@@ -22,7 +22,7 @@ Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 900
 <b> WHAT'S NEW ~~~~~~~~ </b>
 
 <br />
-<b>[2020.10]</b>  Serve as a PC member of AAAI 2021 and a Publication Chair at NAACL 2021. 
+<b>[2020.10]</b>  Serve as PC member of AAAI 2021, NAACL 2021 and Publication Chair at NAACL 2021. 
 
 
 <br />
