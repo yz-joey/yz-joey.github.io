@@ -33,7 +33,10 @@ comments: false
 **week-5(11/06/2020)** Map, Filter, Reduce  <a href="{{ site.url }}/files/f-w5.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/f-w5-ws-sol.py" target="_blank">[worksheets-sol]</a> 
 <br>
 
-**week-6(11/13/2020)** Mid-term 2 Review  <a href="{{ site.url }}/files/f-w6-ws.py" target="_blank">[worksheets]</a> 
+**week-6(11/13/2020)** Mid-term 2 Review  <a href="{{ site.url }}/files/f-w6-ws-sol.py" target="_blank">[worksheets]</a> 
+<br>
+
+**week-7(11/20/2020)** Dictionary  <a href="{{ site.url }}/files/f-w7.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/f-w7-ws.py" target="_blank">[worksheets]</a>
 <br>
 
 <!-- **Spring 2020**
