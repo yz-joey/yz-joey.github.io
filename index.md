@@ -24,6 +24,9 @@ Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 900
 <b> WHAT'S NEW ~~~~~~~~ </b>
 
 <br />
+<b>[2020.12]</b> Our research long paper "Clinical Temporal Relation Extraction with Probabilistic Soft Logic Regularization and Global Inference" was accepted by AAAI 2021! 
+
+<br />
 <b>[2020.10]</b>  Serve as PC member of AAAI 2021, NAACL 2021 and Publication Chair at NAACL 2021. 
 
 
