@@ -36,7 +36,13 @@ comments: false
 **week-6(11/13/2020)** Mid-term 2 Review  <a href="{{ site.url }}/files/f-w6-ws-sol.py" target="_blank">[worksheets-sol]</a> 
 <br>
 
-**week-7(11/20/2020)** Dictionary  <a href="{{ site.url }}/files/f-w7.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/f-w7-ws.py" target="_blank">[worksheets]</a>
+**week-7(11/20/2020)** Dictionary  <a href="{{ site.url }}/files/f-w7.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/f-w7-ws-sol.py" target="_blank">[worksheets]</a>
+<br>
+
+**week-9(12/04/2020)** Dictionary  <a href="{{ site.url }}/files/f-w9.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/f-w9-ws-sol.py" target="_blank">[worksheets]</a>
+<br>
+
+**week-10(12/11/2020)** Final Review  
 <br>
 
 <!-- **Spring 2020**
