@@ -39,7 +39,7 @@ comments: false
 **week-7(11/20/2020)** Dictionary  <a href="{{ site.url }}/files/f-w7.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/f-w7-ws-sol.py" target="_blank">[worksheets]</a>
 <br>
 
-**week-9(12/04/2020)** Dictionary  <a href="{{ site.url }}/files/f-w9.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/f-w9-ws-sol.py" target="_blank">[worksheets]</a>
+**week-9(12/04/2020)** For, While Loop  <a href="{{ site.url }}/files/f-w9.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/f-w9-ws-sol.py" target="_blank">[worksheets]</a>
 <br>
 
 **week-10(12/11/2020)** Final Review  
