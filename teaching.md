@@ -42,7 +42,7 @@ comments: false
 **week-9(12/04/2020)** For, While Loop  <a href="{{ site.url }}/files/f-w9.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/f-w9-ws-sol.py" target="_blank">[worksheets-sol]</a>
 <br>
 
-**week-10(12/11/2020)** Final Review  
+**week-10(12/11/2020)** Final Review   <a href="{{ site.url }}/files/f-w10.pdf" target="_blank">[slides]</a> <a href="{{ site.url }}/files/f-w10-ws-sol.py" target="_blank">[worksheets-sol]</a>
 <br>
 
 <!-- **Spring 2020**
