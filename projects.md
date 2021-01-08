@@ -49,7 +49,7 @@ BD2K Aztec is a global biomedical resource discovery index that allows users to 
 <img align="middle" src="{{ site.url }}/images/aztec.png" alt="...">
 
 
-* [**CREATe**]<br>
+* [**CREATe**]<br> [<a href="{{ site.url }}/files/CREATe.pdf">Paper</a>]
 Clinical case reports have been a longstanding type of communication within the medical literature, seeking to document interesting patient cases. The narrative of a case report details the signs/symptoms, diagnosis, treatment, and outcome of an individual, describing observations made over the course of clinical care. Often these case reports contain exceptionally valuable clinical data, addressing unusual disease situations. As such, they are an important biomedical research data source for uncovering novelty (e.g., new diseases, unusual presentation of common diseases, rare diseases) and detecting adverse events. This project develops algorithms for extracting, indexing, and querying the contents of clinical case reports. Our proposed system, CREATe, automates generation of metadata about case reports, inlcuding <a href="{{ site.url }}/files/NER.pdf" target="_blank">named entity recognition</a> and temporal relation extraction, unlocking this important big data resource through a searchable portal. 
 <img align="middle" src="{{ site.url }}/images/case.png" alt="...">
 
