@@ -24,6 +24,9 @@ Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 900
 <b> WHAT'S NEW ~~~~~~~~ </b>
 
 <br />
+<b>[2020.12]</b> We will demo our CREATe system at ICDE 2021 in April! CREATe is an end-to-end system to annotate, index, and curate clinical case reports with advanced NLP techniques. The <a href="http://www.create-ucla.com/" target="_blank">website</a> will be online soon. [<a href="https://youtu.be/Q8owBQYTjDc" target="_blank">Video</a>]   
+
+<br />
 <b>[2020.12]</b> Our research long paper "Clinical Temporal Relation Extraction with Probabilistic Soft Logic Regularization and Global Inference" was accepted by AAAI 2021! 
 
 <br />
