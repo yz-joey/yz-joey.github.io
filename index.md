@@ -7,10 +7,10 @@ image:
   feature: cover.jpg
 ---
 <b>About me:</b><br>
-<a href="{{ site.url }}/files/CV.pdf" target="_blank">[CV]</a>
+<a href="{{ site.url }}/files/CV.pdf" target="_blank">[CV]</a> (updated in Feb. 2021)
 <br>
 I am a fifth-year Ph.D student in <a href="https://scai.cs.ucla.edu/" target="_blank">Scalable Analytics Institute (ScAi)</a>, Department of Computer Science at University of California, Los Angeles (UCLA) advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Dr. Wei Wang</a>. My research interests focus on natural language processing and text mining. Currently, I am working on Low-resource Information Extraction from different domains, such as figurative language, clinical case reports and semi-structured web pages. 
- 
+
 
 <br>
 <b>Contact Information:</b><br>
@@ -45,7 +45,7 @@ Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 900
 <b>[2020.05]</b> Serve as a PC member of KDD 2020 Research and ADS tracks; PC member of AACL-IJCNLP 2020 Information Extraction Track. 
 
 <br />
-<b>[2020.04]</b> Our research long paper "The Boating Store Had Its Best Sail Ever": Pronunciation-attentive Contextualized Pun Recognition was accepted by ACL 2020! See you in the online conference! 
+<b>[2020.04]</b> Our research long paper "'The Boating Store Had Its Best Sail Ever': Pronunciation-attentive Contextualized Pun Recognition" was accepted by ACL 2020! See you in the online conference! 
 
 <!-- <br />
 <b>[2020.01]</b> I will join the Juicer Team at Google Research, Mountain View as an intern during 2020 summer. 
