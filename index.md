@@ -9,7 +9,7 @@ image:
 <b>About me:</b><br>
 <a href="{{ site.url }}/files/CV.pdf" target="_blank">[CV]</a>
 <br>
-I am a final-year Ph.D student in <a href="https://scai.cs.ucla.edu/" target="_blank">Scalable Analytics Institute (ScAi)</a>, Department of Computer Science at University of California, Los Angeles (UCLA) advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Dr. Wei Wang</a>. My research interests focus on natural language processing and text mining. Currently, I am working on Low-resource Information Extraction from different domains, such as figurative language, clinical case reports and semi-structured web pages. 
+I am a fifth-year Ph.D student in <a href="https://scai.cs.ucla.edu/" target="_blank">Scalable Analytics Institute (ScAi)</a>, Department of Computer Science at University of California, Los Angeles (UCLA) advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Dr. Wei Wang</a>. My research interests focus on natural language processing and text mining. Currently, I am working on Low-resource Information Extraction from different domains, such as figurative language, clinical case reports and semi-structured web pages. 
  
 
 <br>
@@ -22,9 +22,11 @@ Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 900
 <br />
 
 <b> WHAT'S NEW ~~~~~~~~ </b>
+<br />
+<b>[2021.03]</b> I will join Google AI, Mountain View as a full-time researcher after graduation! 
 
 <br />
-<b>[2021.1]</b> We will demo our CREATe system at ICDE 2021 in April! CREATe is an end-to-end system to annotate, index, and curate clinical case reports with advanced NLP techniques. The <a href="http://www.create-ucla.com/" target="_blank">website</a> will be online soon. [<a href="https://youtu.be/Q8owBQYTjDc" target="_blank">Video</a>]   
+<b>[2021.01]</b> We will demo our CREATe system at ICDE 2021 in April! CREATe is an end-to-end system to annotate, index, and curate clinical case reports with advanced NLP techniques. The <a href="http://www.create-ucla.com/" target="_blank">website</a> will be online soon. [<a href="https://youtu.be/Q8owBQYTjDc" target="_blank">Video</a>]   
 
 <br />
 <b>[2020.12]</b> Our research long paper "Clinical Temporal Relation Extraction with Probabilistic Soft Logic Regularization and Global Inference" was accepted by AAAI 2021! 
@@ -45,9 +47,9 @@ Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 900
 <br />
 <b>[2020.04]</b> Our research long paper "The Boating Store Had Its Best Sail Ever": Pronunciation-attentive Contextualized Pun Recognition was accepted by ACL 2020! See you in the online conference! 
 
-<br />
+<!-- <br />
 <b>[2020.01]</b> I will join the Juicer Team at Google Research, Mountain View as an intern during 2020 summer. 
-
+ -->
 <!-- <br />
 <b>[2020.01]</b> Our recent work on <a href="http://arxiv.org/abs/2001.07194" target="_blank">"Recommending Themes for Ad Creative Design via Visual-Linguistic Representations"</a> has been accepted by <a href="https://www2020.thewebconf.org/" target="_blank">WWW 2020</a> as a short paper with oral presentation.  -->
 
