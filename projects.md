@@ -7,7 +7,7 @@ modified: 5-28-2019
 comments: false
 ---
 
-My understanding of natural language processing is based on its various downstream applications. The ultimate goal is to mine the intention behind the language by analyzing the proximity, relationship and patterns among texts. I enjoy applying advanced NLP techniques to different domains, such as biomedicine, advertising and <a href="{{ site.url }}/files/zeroShot.pdf" target="_blank">web data</a>.<a href="{{ site.url }}/file/exam.pdf" target="_blank">..</a>
+My understanding of natural language processing is based on its various downstream applications. The ultimate goal is to mine the intention behind the language by analyzing the proximity, relationship and patterns among texts. I enjoy applying advanced NLP techniques to different domains, such as biomedicine, advertising and <a href="{{ site.url }}/files/zeroShot.pdf" target="_blank">web data</a>.<a href="{{ site.url }}/files/exam.pdf" target="_blank">..</a>
 
 ## Low-resource Information Extraction
 
