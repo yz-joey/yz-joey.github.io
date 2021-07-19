@@ -9,19 +9,22 @@ image:
 <b>About me:</b><br>
 <a href="{{ site.url }}/files/CV.pdf" target="_blank">[CV]</a> (updated in Feb. 2021)
 <br>
-I am a fifth-year Ph.D student in <a href="https://scai.cs.ucla.edu/" target="_blank">Scalable Analytics Institute (ScAi)</a>, Department of Computer Science at University of California, Los Angeles (UCLA) advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Dr. Wei Wang</a>. My research interests focus on natural language processing and text mining. Currently, I am working on Low-resource Information Extraction from different domains, such as figurative language, clinical case reports and semi-structured web pages. 
+I received the Ph.D. in Computer Science from University of California, Los Angeles (UCLA). I was advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Prof. Wei Wang</a>. My research interests focus on natural language processing and text mining. Currently, I am working on Low-resource Information Extraction from different domains, such as figurative language, clinical case reports and semi-structured web pages. 
 
 
 <br>
 <b>Contact Information:</b><br>
 E-mail: yz [AT] cs [DOT] ucla [DOT] edu<br>
-Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 90095, United States
-
+<!-- Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 90095, United States
+ -->
 
 
 <br />
 
 <b> WHAT'S NEW ~~~~~~~~ </b>
+<br />
+<b>[2021.07]</b> I defended my Ph.D. dissertation and graduated from UCLA!
+
 <br />
 <b>[2021.03]</b> I will join Google AI, Mountain View as a full-time researcher after graduation! 
 
