@@ -9,7 +9,7 @@ image:
 <b>About me:</b><br>
 <a href="{{ site.url }}/files/CV.pdf" target="_blank">[CV]</a> (updated in Feb. 2021)
 <br>
-I received the Ph.D. in Computer Science from University of California, Los Angeles (UCLA). I was advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Prof. Wei Wang</a>. My research interests focus on natural language processing and text mining. Currently, I am working on Low-resource Information Extraction from different domains, such as figurative language, clinical case reports and semi-structured web pages. 
+I received the Ph.D. in Computer Science from University of California, Los Angeles (UCLA). I was advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Prof. Wei Wang</a>. My research interests focus on natural language processing and text mining. Currently, I am working on Low-resource Information Extraction from different domains, such as figurative language, social media data, clinical case reports and semi-structured web pages. 
 
 
 <br>
@@ -23,7 +23,7 @@ E-mail: yz [AT] cs [DOT] ucla [DOT] edu<br>
 
 <b> WHAT'S NEW ~~~~~~~~ </b>
 <br />
-<b>[2021.08]</b> Our research long paper "#StayHome or #Marathon? Social Media Enhanced Pandemic Surveillance on Spatial-temporal Dynamic Graphs" was accepted by CIKM 2021! See you in the online conference!
+<b>[2021.08]</b> Our research long paper "#StayHome or #Marathon? Social Media Enhanced Pandemic Surveillance on Spatial-temporal Dynamic Graphs" was accepted by CIKM 2021! See you in the online conference! Our <a href="http://qilin.cs.ucla.edu:8000/#/" target="_blank">online demo system</a> is on as well. 
 
 <br />
 <b>[2021.07]</b> I defended my Ph.D. dissertation and graduated from UCLA!
