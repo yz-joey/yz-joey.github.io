@@ -23,6 +23,9 @@ E-mail: yz [AT] cs [DOT] ucla [DOT] edu<br>
 
 <b> WHAT'S NEW ~~~~~~~~ </b>
 <br />
+<b>[2021.08]</b> Our research long paper "#StayHome or #Marathon? Social Media Enhanced Pandemic Surveillance on Spatial-temporal Dynamic Graphs" was accepted by CIKM 2021! See you in the online conference!
+
+<br />
 <b>[2021.07]</b> I defended my Ph.D. dissertation and graduated from UCLA!
 
 <br />
@@ -35,20 +38,20 @@ E-mail: yz [AT] cs [DOT] ucla [DOT] edu<br>
 <b>[2020.12]</b> Our research long paper "Clinical Temporal Relation Extraction with Probabilistic Soft Logic Regularization and Global Inference" was accepted by AAAI 2021! 
 
 <br />
-<b>[2020.10]</b> Serve as PC member of AAAI 2021, NAACL 2021 and Publication Chair at NAACL 2021. 
+<b>[2020.10]</b> Serve as PC member of KDD 2020, AAAI 2021, ACL 2021 and Publication Chair at NAACL 2021. 
 
 
 <br />
 <b>[2020.09]</b> One collaborative work with <a href="https://rujunhan.github.io/" target="_blank">Rujun Han</a> and <a href="https://vnpeng.net/" target="_blank">Dr. Nanyun Peng</a> on topic End-to-End Event Temporal Relation Extraction (<a href="https://arxiv.org/abs/2009.07373" target="_blank">paper</a>) was accepted by EMNLP 2020! 
 
-<br />
+<!-- <br />
 <b>[2020.07]</b> One collaborative work with <a href="https://cheng-cz.github.io/" target="_blank">Dr. Cheng Zheng</a> on topic user geolocation recognition was accepted by SIGIR 2020. Another collaborative work with <a href="https://sites.google.com/site/shaunakmishracomm/" target="_blank">Dr. Shaunak Mishra</a> was accepted by CIKM 2020, focusing on text generation in the advertising domain.
 
 <br />
-<b>[2020.05]</b> Serve as a PC member of KDD 2020 Research and ADS tracks; PC member of AACL-IJCNLP 2020 Information Extraction Track. 
+<b>[2020.05]</b> Serve as a PC member of KDD 2020 Research and ADS tracks; PC member of AACL-IJCNLP 2020 Information Extraction Track.  -->
 
-<br />
-<b>[2020.04]</b> Our research long paper "'The Boating Store Had Its Best Sail Ever': Pronunciation-attentive Contextualized Pun Recognition" was accepted by ACL 2020! See you in the online conference! 
+<!-- <br />
+<b>[2020.04]</b> Our research long paper "'The Boating Store Had Its Best Sail Ever': Pronunciation-attentive Contextualized Pun Recognition" was accepted by ACL 2020! See you in the online conference!  -->
 
 <!-- <br />
 <b>[2020.01]</b> I will join the Juicer Team at Google Research, Mountain View as an intern during 2020 summer. 
