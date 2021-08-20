@@ -7,14 +7,14 @@ image:
   feature: cover.jpg
 ---
 <b>About me:</b><br>
-<a href="{{ site.url }}/files/CV.pdf" target="_blank">[CV]</a> (updated in Feb. 2021)
+<a href="{{ site.url }}/files/CV.pdf" target="_blank">[CV]</a> (updated in Aug. 2021)
 <br>
 I received my Ph.D. in Computer Science from University of California, Los Angeles (UCLA). I was advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Prof. Wei Wang</a>. My research interests focus on natural language processing and text mining. Currently, I am working on Low-resource Information Extraction from different domains, such as figurative language, social media data, clinical case reports and semi-structured web pages. 
 
 
 <br>
 <b>Contact Information:</b><br>
-E-mail: yz [AT] cs [DOT] ucla [DOT] edu<br>
+E-mail: yichao [DOT] joey [DOT] zhou [AT] gmail [DOT] com<br>
 <!-- Address (UCLA): Room 3551, Boelter Hall, Dept. of Computer Science, UCLA, CA 90095, United States
  -->
 
