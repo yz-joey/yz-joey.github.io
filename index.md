@@ -9,7 +9,7 @@ image:
 <b>About me:</b><br>
 <a href="{{ site.url }}/files/CV.pdf" target="_blank">[CV]</a> (updated in Feb. 2021)
 <br>
-I received the Ph.D. in Computer Science from University of California, Los Angeles (UCLA). I was advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Prof. Wei Wang</a>. My research interests focus on natural language processing and text mining. Currently, I am working on Low-resource Information Extraction from different domains, such as figurative language, social media data, clinical case reports and semi-structured web pages. 
+I received my Ph.D. in Computer Science from University of California, Los Angeles (UCLA). I was advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Prof. Wei Wang</a>. My research interests focus on natural language processing and text mining. Currently, I am working on Low-resource Information Extraction from different domains, such as figurative language, social media data, clinical case reports and semi-structured web pages. 
 
 
 <br>
@@ -23,16 +23,16 @@ E-mail: yz [AT] cs [DOT] ucla [DOT] edu<br>
 
 <b> WHAT'S NEW ~~~~~~~~ </b>
 <br />
-<b>[2021.08]</b> Our research long paper "#StayHome or #Marathon? Social Media Enhanced Pandemic Surveillance on Spatial-temporal Dynamic Graphs" was accepted by CIKM 2021! See you in the online conference! Our <a href="http://qilin.cs.ucla.edu:8000/#/" target="_blank">online demo system</a> is on as well. 
+<b>[2021.08]</b> Our research long paper #StayHome or #Marathon? Social Media Enhanced Pandemic Surveillance on Spatial-temporal Dynamic Graphs <a href="https://arxiv.org/abs/2108.03670" target="_blank">(paper)</a> was accepted by CIKM 2021! See you in the online conference! Our <a href="http://qilin.cs.ucla.edu:8000/#/" target="_blank">online demo system</a> will be on soon. 
 
 <br />
-<b>[2021.07]</b> I defended my Ph.D. dissertation and graduated from UCLA!
+<b>[2021.07]</b> I defended my <a href="https://escholarship.org/uc/item/5bw3r6x8" target="_blank">Ph.D. dissertation</a> and graduated from UCLA!
 
 <br />
 <b>[2021.03]</b> I will join Google AI, Mountain View as a full-time researcher after graduation! 
 
 <br />
-<b>[2021.01]</b> We will demo our CREATe system at ICDE 2021 in April! CREATe is an end-to-end system to annotate, index, and curate clinical case reports with advanced NLP techniques. The <a href="http://www.create-ucla.com/" target="_blank">website</a> will be online soon. [<a href="https://youtu.be/Q8owBQYTjDc" target="_blank">Video</a>]   
+<b>[2021.01]</b> We will demo our <a href="https://arxiv.org/pdf/2103.00562.pdf" target="_blank">CREATe system</a> at ICDE 2021 in April! CREATe is an end-to-end system to annotate, index, and curate clinical case reports with advanced NLP techniques. [<a href="https://youtu.be/Q8owBQYTjDc" target="_blank">Video</a>]   
 
 <br />
 <b>[2020.12]</b> Our research long paper "Clinical Temporal Relation Extraction with Probabilistic Soft Logic Regularization and Global Inference" was accepted by AAAI 2021! 
