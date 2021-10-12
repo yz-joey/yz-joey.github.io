@@ -9,7 +9,7 @@ image:
 <b>About me:</b><br>
 <a href="{{ site.url }}/files/CV.pdf" target="_blank">[CV]</a> (updated in Aug. 2021)
 <br>
-I received my Ph.D. in Computer Science from University of California, Los Angeles (UCLA). I was advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Prof. Wei Wang</a>. My research interests focus on natural language processing and text mining. Currently, I am working on Low-resource Information Extraction from different domains, such as figurative language, social media data, clinical case reports and semi-structured web pages. 
+I received my Ph.D. in Computer Science from University of California, Los Angeles (UCLA). I was advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Prof. Wei Wang</a>. My research interests focus on natural language processing and text mining. I joined Google Research Juicer team after graduation. Currently, I am working on low-resource information extraction and semi-supervised learning problems.
 
 
 <br>
@@ -23,13 +23,20 @@ E-mail: yichao [DOT] joey [DOT] zhou [AT] gmail [DOT] com<br>
 
 <b> WHAT'S NEW ~~~~~~~~ </b>
 <br />
+
+<b>[2021.10]</b> Our research paper "Learning Transferable Node Representations for Attribute Extraction from Web Documents" was accepted by WSDM 2022! See you in Arizona! 
+
+<br />
+<b>[2021.09]</b> Our journal paper "COVID-19 Surveiller: Toward a Robust and Effective Pandemic Surveillance System based on Social Media Mining" was accepted by Philosophical Transactions A and will be publised this November for issue: Data Science Approach to Infectious Diseases Surveillance. 
+
+<br />
 <b>[2021.08]</b> Our research long paper #StayHome or #Marathon? Social Media Enhanced Pandemic Surveillance on Spatial-temporal Dynamic Graphs <a href="https://arxiv.org/abs/2108.03670" target="_blank">(paper)</a> was accepted by CIKM 2021! See you in the online conference! Our <a href="http://qilin.cs.ucla.edu:8000/#/" target="_blank">online demo system</a> will be on soon. 
 
 <br />
 <b>[2021.07]</b> I defended my <a href="https://escholarship.org/uc/item/5bw3r6x8" target="_blank">Ph.D. dissertation</a> and graduated from UCLA!
 
-<br />
-<b>[2021.03]</b> I will join Google AI, Mountain View as a full-time researcher after graduation! 
+<!-- <br />
+<b>[2021.03]</b> I will join Google AI, Mountain View as a full-time researcher after graduation!  -->
 
 <br />
 <b>[2021.01]</b> We will demo our <a href="https://arxiv.org/pdf/2103.00562.pdf" target="_blank">CREATe system</a> at ICDE 2021 in April! CREATe is an end-to-end system to annotate, index, and curate clinical case reports with advanced NLP techniques. [<a href="https://youtu.be/Q8owBQYTjDc" target="_blank">Video</a>]   
@@ -41,8 +48,8 @@ E-mail: yichao [DOT] joey [DOT] zhou [AT] gmail [DOT] com<br>
 <b>[2020.10]</b> Serve as PC member of KDD 2020, AAAI 2021, ACL 2021 and Publication Chair at NAACL 2021. 
 
 
-<br />
-<b>[2020.09]</b> One collaborative work with <a href="https://rujunhan.github.io/" target="_blank">Rujun Han</a> and <a href="https://vnpeng.net/" target="_blank">Dr. Nanyun Peng</a> on topic End-to-End Event Temporal Relation Extraction (<a href="https://arxiv.org/abs/2009.07373" target="_blank">paper</a>) was accepted by EMNLP 2020! 
+<!-- <br />
+<b>[2020.09]</b> One collaborative work with <a href="https://rujunhan.github.io/" target="_blank">Rujun Han</a> and <a href="https://vnpeng.net/" target="_blank">Dr. Nanyun Peng</a> on topic End-to-End Event Temporal Relation Extraction (<a href="https://arxiv.org/abs/2009.07373" target="_blank">paper</a>) was accepted by EMNLP 2020!  -->
 
 <!-- <br />
 <b>[2020.07]</b> One collaborative work with <a href="https://cheng-cz.github.io/" target="_blank">Dr. Cheng Zheng</a> on topic user geolocation recognition was accepted by SIGIR 2020. Another collaborative work with <a href="https://sites.google.com/site/shaunakmishracomm/" target="_blank">Dr. Shaunak Mishra</a> was accepted by CIKM 2020, focusing on text generation in the advertising domain.
