@@ -9,7 +9,7 @@ image:
 <b>About me:</b><br>
 <a href="{{ site.url }}/files/CV.pdf" target="_blank">[CV]</a> (updated in 2023)
 <br>
-I received my Ph.D. in Computer Science from University of California, Los Angeles (UCLA). I was advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Prof. Wei Wang</a>. My research interests focus on natural language processing and text mining. I joined Google Research Juicer team after graduation. Currently, I am working on low-resource information extraction and semi-supervised learning problems.
+I received my Ph.D. in Computer Science from University of California, Los Angeles (UCLA). I was advised by <a href="http://web.cs.ucla.edu/~weiwang/" target="_blank"> Prof. Wei Wang</a>. My research interests focus on natural language processing and text mining. I joined Google Research Juicer team after graduation. Currently, I am working on structured summarization with LLM and low-resource information extraction.
 
 
 <br>
